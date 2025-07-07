@@ -1,11 +1,12 @@
 import pandas as pd
 import os
 
-YEAR = 2014  # Change this to any year you want to process
+YEAR = 2023  # Change this to any year you want to process
 
 # File paths
 metadata_folder = "definitions"
-main_data_file = f"{YEAR}_raw.csv"
+rawdata_folder = "CSVraw"
+main_data_file = os.path.join(rawdata_folder, f"{YEAR}_raw.csv")
 hd_file = os.path.join(metadata_folder, "hd2023.csv")
 freq_file = os.path.join(metadata_folder, "Frequencies.csv")
 category_file = os.path.join(metadata_folder, "IPEDS_main_categories.csv")
@@ -141,7 +142,5 @@ else:
 
 
 # --- 6. Save Final Output ---
-main_df.to_csv(f"{YEAR}_cleaned.csv", index=False)
+main_df.to_csv(f"csvcleaned/{YEAR}_cleaned.csv", index=False)
 print(f"✅ Final cleaned dataset saved: {YEAR}_cleaned.csv")
-
-# %%

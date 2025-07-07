@@ -2,10 +2,10 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 # SPECIFY YEAR HERE
-YEAR = 2014  # Change this to any year you want to analyze
+YEAR = 2023  # Change this to any year you want to analyze
 
 # Load and clean
-df = pd.read_csv(f"{YEAR}_cleaned.csv")
+df = pd.read_csv(f"CSVcleaned/{YEAR}_cleaned.csv")
 df.columns = df.columns.str.strip()
 df["CIPCode"] = df["CIPCode"].astype(float)
 df["CIPField"] = df["CIPField"].astype(str).str.strip().fillna("")
@@ -199,9 +199,12 @@ summary = summary[
 ]
 
 # Save to CSV before HTML processing
-csv_filename = f"{YEAR}_SETR_data.csv"
+csv_filename = f"SETRdata/{YEAR}_SETR_data.csv"
 summary.to_csv(csv_filename, index=False)
 print(f"✅ CSV data saved: {csv_filename}")
+
+# Define the HTML output filenamegit 
+output_filename = f"SETRtables/SETR_CIP_summary_{YEAR}.html"
 
 # Then apply MultiIndex header with "Combined" instead of "Grand"
 summary.columns = pd.MultiIndex.from_tuples([
@@ -303,9 +306,8 @@ for col_idx in [0, 1, 2]:
         
         i += span_count
 
-# Save HTML (using the YEAR variable)
-output_filename = f"SETR_CIP_summary_{YEAR}.html"
+# Save HTML
 with open(output_filename, "w", encoding="utf-8") as f:
     f.write(str(soup))
 
-print(f"✅ Simplified HTML with fixed rowspan logic saved: {output_filename}")
+print(f"✅ HTML table saved: {output_filename}")
