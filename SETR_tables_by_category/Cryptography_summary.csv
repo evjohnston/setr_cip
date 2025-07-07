@@ -1,0 +1,101 @@
+Year,SETR Category,Award level,Total Graduates,US Graduates,US Nonresident Graduates
+2014,Cryptography,All award levels (total),73860,61510,12350
+2015,Cryptography,All award levels (total),82456,65819,16637
+2016,Cryptography,All award levels (total),90931,69009,21922
+2017,Cryptography,All award levels (total),101358,75463,25895
+2018,Cryptography,All award levels (total),109563,82432,27131
+2019,Cryptography,All award levels (total),117273,90513,26760
+2020,Cryptography,All award levels (total),127241,97760,29481
+2021,Cryptography,All award levels (total),136251,105233,31018
+2022,Cryptography,All award levels (total),137109,110162,26947
+2023,Cryptography,All award levels (total),155560,115464,40096
+2014,Cryptography,Associate's degree,5770,5594,176
+2015,Cryptography,Associate's degree,6822,6625,197
+2016,Cryptography,Associate's degree,7435,7149,286
+2017,Cryptography,Associate's degree,8480,8111,369
+2018,Cryptography,Associate's degree,9896,9386,510
+2019,Cryptography,Associate's degree,11116,10448,668
+2020,Cryptography,Associate's degree,12350,11579,771
+2021,Cryptography,Associate's degree,13872,13136,736
+2022,Cryptography,Associate's degree,14078,13474,604
+2023,Cryptography,Associate's degree,14553,14071,482
+2014,Cryptography,Bachelor's degree,46900,43108,3792
+2015,Cryptography,Bachelor's degree,49968,45679,4289
+2016,Cryptography,Bachelor's degree,52827,47618,5209
+2017,Cryptography,Bachelor's degree,57907,51676,6231
+2018,Cryptography,Bachelor's degree,63421,56017,7404
+2019,Cryptography,Bachelor's degree,69629,61215,8414
+2020,Cryptography,Bachelor's degree,75672,65740,9932
+2021,Cryptography,Bachelor's degree,79490,69057,10433
+2022,Cryptography,Bachelor's degree,82157,71909,10248
+2023,Cryptography,Bachelor's degree,84216,74549,9667
+2014,Cryptography,Doctor's degree – other,48,47,1
+2015,Cryptography,Doctor's degree – other,48,48,0
+2016,Cryptography,Doctor's degree – other,43,43,0
+2017,Cryptography,Doctor's degree – other,50,50,0
+2018,Cryptography,Doctor's degree – other,45,45,0
+2019,Cryptography,Doctor's degree – professional practice,53,53,0
+2020,Cryptography,Doctor's degree – professional practice,47,47,0
+2021,Cryptography,Doctor's degree – professional practice,70,70,0
+2022,Cryptography,Doctor's degree – professional practice,64,64,0
+2023,Cryptography,Doctor's degree – professional practice,49,49,0
+2014,Cryptography,Doctor's degree – research/scholarship,2257,1144,1113
+2015,Cryptography,Doctor's degree – research/scholarship,2266,1138,1128
+2016,Cryptography,Doctor's degree – research/scholarship,2312,1157,1155
+2017,Cryptography,Doctor's degree – research/scholarship,2352,1201,1151
+2018,Cryptography,Doctor's degree – research/scholarship,2401,1195,1206
+2019,Cryptography,Doctor's degree – research/scholarship,2601,1284,1317
+2020,Cryptography,Doctor's degree – research/scholarship,2619,1210,1409
+2021,Cryptography,Doctor's degree – research/scholarship,2684,1233,1451
+2022,Cryptography,Doctor's degree – research/scholarship,3004,1366,1638
+2023,Cryptography,Doctor's degree – research/scholarship,2938,1378,1560
+2014,Cryptography,Master's degree,16842,9810,7032
+2015,Cryptography,Master's degree,21202,10474,10728
+2016,Cryptography,Master's degree,25814,11008,14806
+2017,Cryptography,Master's degree,29401,11972,17429
+2018,Cryptography,Master's degree,30120,12866,17254
+2019,Cryptography,Master's degree,30033,14276,15757
+2020,Cryptography,Master's degree,32297,15469,16828
+2021,Cryptography,Master's degree,35182,17426,17756
+2022,Cryptography,Master's degree,33327,19383,13944
+2023,Cryptography,Master's degree,48429,20780,27649
+2014,Cryptography,Post-master's certificate,64,45,19
+2015,Cryptography,Post-master's certificate,133,67,66
+2016,Cryptography,Post-master's certificate,109,63,46
+2017,Cryptography,Post-master's certificate,130,77,53
+2018,Cryptography,Post-master's certificate,185,100,85
+2019,Cryptography,Post-master's certificate,172,101,71
+2020,Cryptography,Post-master's certificate,232,112,120
+2021,Cryptography,Post-master's certificate,208,123,85
+2022,Cryptography,Post-master's certificate,189,113,76
+2023,Cryptography,Post-master's certificate,146,72,74
+2014,Cryptography,Postbaccalaureate certificate,1111,908,203
+2015,Cryptography,Postbaccalaureate certificate,1011,800,211
+2016,Cryptography,Postbaccalaureate certificate,1436,1035,401
+2017,Cryptography,Postbaccalaureate certificate,1959,1314,645
+2018,Cryptography,Postbaccalaureate certificate,2165,1522,643
+2019,Cryptography,Postbaccalaureate certificate,2199,1700,499
+2020,Cryptography,Postbaccalaureate certificate,2315,1927,388
+2021,Cryptography,Postbaccalaureate certificate,2722,2196,526
+2022,Cryptography,Postbaccalaureate certificate,2340,1943,397
+2023,Cryptography,Postbaccalaureate certificate,2720,2085,635
+2014,Cryptography,Postsecondary certificate < 60 semester credit hours,711,698,13
+2015,Cryptography,Postsecondary certificate < 60 semester credit hours,860,846,14
+2016,Cryptography,Postsecondary certificate < 60 semester credit hours,797,783,14
+2017,Cryptography,Postsecondary certificate < 60 semester credit hours,938,923,15
+2018,Cryptography,Postsecondary certificate < 60 semester credit hours,1182,1156,26
+2019,Cryptography,Postsecondary certificate < 60 semester credit hours,1302,1272,30
+2020,Cryptography,Postsecondary certificate < 60 semester credit hours,1592,1561,31
+2021,Cryptography,Postsecondary certificate < 60 semester credit hours,1881,1852,29
+2022,Cryptography,Postsecondary certificate < 60 semester credit hours,1829,1792,37
+2023,Cryptography,Postsecondary certificate < 60 semester credit hours,2304,2278,26
+2014,Cryptography,Postsecondary certificate > 60 semester credit hours,157,156,1
+2015,Cryptography,Postsecondary certificate > 60 semester credit hours,146,142,4
+2016,Cryptography,Postsecondary certificate > 60 semester credit hours,158,153,5
+2017,Cryptography,Postsecondary certificate > 60 semester credit hours,141,139,2
+2018,Cryptography,Postsecondary certificate > 60 semester credit hours,148,145,3
+2019,Cryptography,Postsecondary certificate > 60 semester credit hours,168,164,4
+2020,Cryptography,Postsecondary certificate > 60 semester credit hours,117,115,2
+2021,Cryptography,Postsecondary certificate > 60 semester credit hours,142,140,2
+2022,Cryptography,Postsecondary certificate > 60 semester credit hours,121,118,3
+2023,Cryptography,Postsecondary certificate > 60 semester credit hours,205,202,3

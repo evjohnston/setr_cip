@@ -1,0 +1,96 @@
+Year,SETR Category,Award level,Total Graduates,US Graduates,US Nonresident Graduates
+2014,Robotics,All award levels (total),58812,44180,14632
+2015,Robotics,All award levels (total),63770,45194,18576
+2016,Robotics,All award levels (total),70542,47596,22946
+2017,Robotics,All award levels (total),73683,50651,23032
+2018,Robotics,All award levels (total),74772,53010,21762
+2019,Robotics,All award levels (total),76139,56022,20117
+2020,Robotics,All award levels (total),77762,57785,19977
+2021,Robotics,All award levels (total),80154,60930,19224
+2022,Robotics,All award levels (total),78389,62763,15626
+2023,Robotics,All award levels (total),84621,63181,21440
+2014,Robotics,Associate's degree,5914,5810,104
+2015,Robotics,Associate's degree,6180,6074,106
+2016,Robotics,Associate's degree,6333,6206,127
+2017,Robotics,Associate's degree,6478,6348,130
+2018,Robotics,Associate's degree,7123,6912,211
+2019,Robotics,Associate's degree,6943,6768,175
+2020,Robotics,Associate's degree,7029,6860,169
+2021,Robotics,Associate's degree,7450,7272,178
+2022,Robotics,Associate's degree,8030,7871,159
+2023,Robotics,Associate's degree,8120,7959,161
+2014,Robotics,Bachelor's degree,28053,25623,2430
+2015,Robotics,Bachelor's degree,30114,27196,2918
+2016,Robotics,Bachelor's degree,32994,29719,3275
+2017,Robotics,Bachelor's degree,36457,32816,3641
+2018,Robotics,Bachelor's degree,38678,34525,4153
+2019,Robotics,Bachelor's degree,41396,37044,4352
+2020,Robotics,Bachelor's degree,43127,38339,4788
+2021,Robotics,Bachelor's degree,44282,39590,4692
+2022,Robotics,Bachelor's degree,43754,39500,4254
+2023,Robotics,Bachelor's degree,42453,38625,3828
+2014,Robotics,Doctor's degree – other,5,5,0
+2015,Robotics,Doctor's degree – other,3,2,1
+2016,Robotics,Doctor's degree – other,1,0,1
+2017,Robotics,Doctor's degree – other,1,0,1
+2023,Robotics,Doctor's degree – other,1,1,0
+2014,Robotics,Doctor's degree – research/scholarship,2859,963,1896
+2015,Robotics,Doctor's degree – research/scholarship,2808,966,1842
+2016,Robotics,Doctor's degree – research/scholarship,2840,951,1889
+2017,Robotics,Doctor's degree – research/scholarship,2886,895,1991
+2018,Robotics,Doctor's degree – research/scholarship,2914,899,2015
+2019,Robotics,Doctor's degree – research/scholarship,2891,888,2003
+2020,Robotics,Doctor's degree – research/scholarship,3022,898,2124
+2021,Robotics,Doctor's degree – research/scholarship,2817,828,1989
+2022,Robotics,Doctor's degree – research/scholarship,2965,902,2063
+2023,Robotics,Doctor's degree – research/scholarship,2942,993,1949
+2014,Robotics,Master's degree,18858,8793,10065
+2015,Robotics,Master's degree,21858,8331,13527
+2016,Robotics,Master's degree,25699,8308,17391
+2017,Robotics,Master's degree,25366,8305,17061
+2018,Robotics,Master's degree,23481,8344,15137
+2019,Robotics,Master's degree,22239,8877,13362
+2020,Robotics,Master's degree,21938,9254,12684
+2021,Robotics,Master's degree,22174,10082,12092
+2022,Robotics,Master's degree,20072,11112,8960
+2023,Robotics,Master's degree,27173,11991,15182
+2014,Robotics,Post-master's certificate,71,36,35
+2015,Robotics,Post-master's certificate,71,36,35
+2016,Robotics,Post-master's certificate,59,24,35
+2017,Robotics,Post-master's certificate,40,30,10
+2018,Robotics,Post-master's certificate,90,54,36
+2019,Robotics,Post-master's certificate,54,38,16
+2020,Robotics,Post-master's certificate,67,37,30
+2021,Robotics,Post-master's certificate,94,59,35
+2022,Robotics,Post-master's certificate,89,78,11
+2023,Robotics,Post-master's certificate,80,57,23
+2014,Robotics,Postbaccalaureate certificate,959,869,90
+2015,Robotics,Postbaccalaureate certificate,847,708,139
+2016,Robotics,Postbaccalaureate certificate,953,733,220
+2017,Robotics,Postbaccalaureate certificate,988,803,185
+2018,Robotics,Postbaccalaureate certificate,952,752,200
+2019,Robotics,Postbaccalaureate certificate,961,771,190
+2020,Robotics,Postbaccalaureate certificate,1003,838,165
+2021,Robotics,Postbaccalaureate certificate,1485,1269,216
+2022,Robotics,Postbaccalaureate certificate,1328,1165,163
+2023,Robotics,Postbaccalaureate certificate,1424,1143,281
+2014,Robotics,Postsecondary certificate < 60 semester credit hours,2045,2033,12
+2015,Robotics,Postsecondary certificate < 60 semester credit hours,1844,1836,8
+2016,Robotics,Postsecondary certificate < 60 semester credit hours,1621,1613,8
+2017,Robotics,Postsecondary certificate < 60 semester credit hours,1416,1403,13
+2018,Robotics,Postsecondary certificate < 60 semester credit hours,1489,1479,10
+2019,Robotics,Postsecondary certificate < 60 semester credit hours,1621,1602,19
+2020,Robotics,Postsecondary certificate < 60 semester credit hours,1528,1512,16
+2021,Robotics,Postsecondary certificate < 60 semester credit hours,1806,1785,21
+2022,Robotics,Postsecondary certificate < 60 semester credit hours,2127,2111,16
+2023,Robotics,Postsecondary certificate < 60 semester credit hours,2400,2385,15
+2014,Robotics,Postsecondary certificate > 60 semester credit hours,48,48,0
+2015,Robotics,Postsecondary certificate > 60 semester credit hours,45,45,0
+2016,Robotics,Postsecondary certificate > 60 semester credit hours,42,42,0
+2017,Robotics,Postsecondary certificate > 60 semester credit hours,51,51,0
+2018,Robotics,Postsecondary certificate > 60 semester credit hours,45,45,0
+2019,Robotics,Postsecondary certificate > 60 semester credit hours,34,34,0
+2020,Robotics,Postsecondary certificate > 60 semester credit hours,48,47,1
+2021,Robotics,Postsecondary certificate > 60 semester credit hours,46,45,1
+2022,Robotics,Postsecondary certificate > 60 semester credit hours,24,24,0
+2023,Robotics,Postsecondary certificate > 60 semester credit hours,28,27,1

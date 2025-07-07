@@ -3,8 +3,10 @@
 #Pivot Table to Summarize Stats by CIPCategory
 import pandas as pd
 
+YEAR = 2023 # designate year
+
 # Load the data
-df = pd.read_csv("2023_cleaned.csv")
+df = pd.read_csv(f"CSVcleaned/{YEAR}_cleaned.csv")
 
 # Optional: clean column names in case of extra whitespace
 df.columns = df.columns.str.strip()
@@ -74,8 +76,8 @@ summary_sorted = summary_sorted[ordered_columns]
 print(summary_sorted.head(10))  # Show first 10 rows
 
 # Save the summary
-summary_sorted.to_csv("summary_by_CIPField.csv", index=False)
-print("✅ Summary saved to summary_by_CIPField.csv")
+summary_sorted.to_csv(f"summary_by_CIPField_{YEAR}.csv", index=False)
+print(f"✅ Summary saved to summary_by_CIPField_{YEAR}.csv")
 
 # %% 
 
@@ -83,7 +85,7 @@ print("✅ Summary saved to summary_by_CIPField.csv")
 import pandas as pd
 
 # Load the CSV generated earlier
-df = pd.read_csv("summary_by_CIPField.csv")
+df = pd.read_csv(f"summary_by_CIPField_{YEAR}.csv")
 
 # Define the structure of the grouped headers
 columns_structure = {
@@ -142,8 +144,8 @@ df_multi = df[ordered_columns]
 df_multi.columns = multi_index
 
 # Export to HTML
-df_multi.to_html("summary_by_CIPField.html", index=False, escape=False)
+df_multi.to_html(f"summary_by_CIPField_{YEAR}.html", index=False, escape=False)
 
-print("✅ HTML table with multi-level headers saved as summary_by_CIPField.html")
+print(f"✅ HTML table with multi-level headers saved as summary_by_CIPField_{YEAR}.html")
 
 # %%
