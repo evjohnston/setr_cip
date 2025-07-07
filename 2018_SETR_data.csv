@@ -1,0 +1,581 @@
+SETR Category,CIPCode,CIPField,Award level,Grand total,Grand total men,Grand total women,U.S. Resident/Citizen total,U.S. Resident/Citizen men,U.S. Resident/Citizen women,U.S. Nonresident total,U.S. Nonresident men,U.S. Nonresident women
+Artificial Intelligence,11.0102,Artificial Intelligence,All award levels (total),247,189,58,127,127,26,120,88,32
+Artificial Intelligence,11.0102,Artificial Intelligence,Bachelor's degree,11,11,0,11,11,0,0,0,0
+Artificial Intelligence,11.0102,Artificial Intelligence,Master's degree,205,153,52,104,104,23,101,72,29
+Artificial Intelligence,11.0102,Artificial Intelligence,Doctor's degree – research/scholarship,31,25,6,12,12,3,19,16,3
+Artificial Intelligence,11.0401,Information Science/Studies,All award levels (total),17091,11766,5325,12669,12669,3546,4422,2643,1779
+Artificial Intelligence,11.0401,Information Science/Studies,Postsecondary certificate < 60 semester credit hours,194,149,45,193,193,44,1,0,1
+Artificial Intelligence,11.0401,Information Science/Studies,Postsecondary certificate > 60 semester credit hours,130,101,29,128,128,28,2,1,1
+Artificial Intelligence,11.0401,Information Science/Studies,Associate's degree,957,768,189,940,940,185,17,13,4
+Artificial Intelligence,11.0401,Information Science/Studies,Bachelor's degree,8327,6213,2114,7792,7792,1935,535,356,179
+Artificial Intelligence,11.0401,Information Science/Studies,Master's degree,6913,4204,2709,3261,3261,1199,3652,2142,1510
+Artificial Intelligence,11.0401,Information Science/Studies,Doctor's degree – research/scholarship,164,89,75,105,105,50,59,34,25
+Artificial Intelligence,11.0401,Information Science/Studies,Postbaccalaureate certificate,391,239,152,235,235,93,156,97,59
+Artificial Intelligence,11.0401,Information Science/Studies,Post-master's certificate,15,3,12,15,15,12,0,0,0
+Artificial Intelligence,11.0501,Computer Systems Analysis/Analyst,All award levels (total),2219,1616,603,1570,1570,339,649,385,264
+Artificial Intelligence,11.0501,Computer Systems Analysis/Analyst,Postsecondary certificate < 60 semester credit hours,142,120,22,141,141,21,1,0,1
+Artificial Intelligence,11.0501,Computer Systems Analysis/Analyst,Associate's degree,103,87,16,99,99,14,4,2,2
+Artificial Intelligence,11.0501,Computer Systems Analysis/Analyst,Bachelor's degree,1143,891,252,1061,1061,217,82,47,35
+Artificial Intelligence,11.0501,Computer Systems Analysis/Analyst,Master's degree,698,443,255,211,211,65,487,297,190
+Artificial Intelligence,11.0501,Computer Systems Analysis/Analyst,Doctor's degree – research/scholarship,2,2,0,0,0,0,2,2,0
+Artificial Intelligence,11.0501,Computer Systems Analysis/Analyst,Postbaccalaureate certificate,131,73,58,58,58,22,73,37,36
+Artificial Intelligence,11.0701,Computer Science,All award levels (total),44106,34642,9464,30744,30744,5539,13362,9437,3925
+Artificial Intelligence,11.0701,Computer Science,Postsecondary certificate < 60 semester credit hours,60,53,7,56,56,6,4,3,1
+Artificial Intelligence,11.0701,Computer Science,Associate's degree,2511,2134,377,2324,2324,338,187,148,39
+Artificial Intelligence,11.0701,Computer Science,Bachelor's degree,27742,22519,5223,24539,24539,4385,3203,2365,838
+Artificial Intelligence,11.0701,Computer Science,Master's degree,12602,8968,3634,3271,3271,703,9331,6400,2931
+Artificial Intelligence,11.0701,Computer Science,Doctor's degree – research/scholarship,970,812,158,383,383,65,587,494,93
+Artificial Intelligence,11.0701,Computer Science,Doctor's degree – other,45,34,11,45,45,11,0,0,0
+Artificial Intelligence,11.0701,Computer Science,Postbaccalaureate certificate,149,102,47,115,115,29,34,16,18
+Artificial Intelligence,11.0701,Computer Science,Post-master's certificate,27,20,7,11,11,2,16,11,5
+Artificial Intelligence,11.0802,Data Modeling/Warehousing and Database Administration,All award levels (total),1390,854,536,885,885,309,505,278,227
+Artificial Intelligence,11.0802,Data Modeling/Warehousing and Database Administration,Postsecondary certificate < 60 semester credit hours,75,47,28,67,67,23,8,3,5
+Artificial Intelligence,11.0802,Data Modeling/Warehousing and Database Administration,Postsecondary certificate > 60 semester credit hours,15,11,4,14,14,3,1,0,1
+Artificial Intelligence,11.0802,Data Modeling/Warehousing and Database Administration,Associate's degree,97,65,32,94,94,30,3,1,2
+Artificial Intelligence,11.0802,Data Modeling/Warehousing and Database Administration,Bachelor's degree,138,100,38,118,118,34,20,16,4
+Artificial Intelligence,11.0802,Data Modeling/Warehousing and Database Administration,Master's degree,778,468,310,467,467,172,311,173,138
+Artificial Intelligence,11.0802,Data Modeling/Warehousing and Database Administration,Postbaccalaureate certificate,233,137,96,105,105,36,128,68,60
+Artificial Intelligence,11.0802,Data Modeling/Warehousing and Database Administration,Post-master's certificate,54,26,28,20,20,11,34,17,17
+Artificial Intelligence,11.0804,"Modeling, Virtual Environments and Simulation",All award levels (total),585,449,136,480,480,104,105,73,32
+Artificial Intelligence,11.0804,"Modeling, Virtual Environments and Simulation",Postsecondary certificate < 60 semester credit hours,40,27,13,40,40,13,0,0,0
+Artificial Intelligence,11.0804,"Modeling, Virtual Environments and Simulation",Associate's degree,21,17,4,20,20,3,1,0,1
+Artificial Intelligence,11.0804,"Modeling, Virtual Environments and Simulation",Bachelor's degree,350,290,60,318,318,52,32,24,8
+Artificial Intelligence,11.0804,"Modeling, Virtual Environments and Simulation",Master's degree,148,107,41,81,81,21,67,47,20
+Artificial Intelligence,11.0804,"Modeling, Virtual Environments and Simulation",Postbaccalaureate certificate,26,8,18,21,21,15,5,2,3
+Artificial Intelligence,11.1005,Information Technology Project Management,All award levels (total),1193,846,347,1024,1024,279,169,101,68
+Artificial Intelligence,11.1005,Information Technology Project Management,Postsecondary certificate < 60 semester credit hours,1,0,1,1,1,1,0,0,0
+Artificial Intelligence,11.1005,Information Technology Project Management,Postsecondary certificate > 60 semester credit hours,11,5,6,11,11,6,0,0,0
+Artificial Intelligence,11.1005,Information Technology Project Management,Associate's degree,43,35,8,43,43,8,0,0,0
+Artificial Intelligence,11.1005,Information Technology Project Management,Bachelor's degree,685,539,146,657,657,139,28,21,7
+Artificial Intelligence,11.1005,Information Technology Project Management,Master's degree,406,241,165,276,276,107,130,72,58
+Artificial Intelligence,11.1005,Information Technology Project Management,Doctor's degree – research/scholarship,1,1,0,1,1,0,0,0,0
+Artificial Intelligence,11.1005,Information Technology Project Management,Postbaccalaureate certificate,46,25,21,35,35,18,11,8,3
+Artificial Intelligence,14.0903,Computer Software Engineering,All award levels (total),3261,2421,840,1731,1731,276,1530,966,564
+Artificial Intelligence,14.0903,Computer Software Engineering,Postsecondary certificate < 60 semester credit hours,3,3,0,2,2,0,1,1,0
+Artificial Intelligence,14.0903,Computer Software Engineering,Associate's degree,71,62,9,71,71,9,0,0,0
+Artificial Intelligence,14.0903,Computer Software Engineering,Bachelor's degree,1323,1134,189,1201,1201,166,122,99,23
+Artificial Intelligence,14.0903,Computer Software Engineering,Master's degree,1808,1180,628,415,415,93,1393,858,535
+Artificial Intelligence,14.0903,Computer Software Engineering,Doctor's degree – research/scholarship,7,5,2,2,2,0,5,3,2
+Artificial Intelligence,14.0903,Computer Software Engineering,Postbaccalaureate certificate,48,36,12,39,39,8,9,5,4
+Artificial Intelligence,14.0903,Computer Software Engineering,Post-master's certificate,1,1,0,1,1,0,0,0,0
+Artificial Intelligence,27.0303,Computational Mathematics,All award levels (total),275,191,84,208,208,66,67,49,18
+Artificial Intelligence,27.0303,Computational Mathematics,Bachelor's degree,228,158,70,174,174,55,54,39,15
+Artificial Intelligence,27.0303,Computational Mathematics,Master's degree,9,5,4,6,6,3,3,2,1
+Artificial Intelligence,27.0303,Computational Mathematics,Doctor's degree – research/scholarship,28,19,9,22,22,7,6,4,2
+Artificial Intelligence,27.0303,Computational Mathematics,Postbaccalaureate certificate,10,9,1,6,6,1,4,4,0
+Biotechnology and Synthetic Biology,14.0301,Agricultural Engineering,All award levels (total),1546,942,604,1301,1301,510,245,151,94
+Biotechnology and Synthetic Biology,14.0301,Agricultural Engineering,Associate's degree,10,10,0,10,10,0,0,0,0
+Biotechnology and Synthetic Biology,14.0301,Agricultural Engineering,Bachelor's degree,1174,714,460,1105,1105,428,69,37,32
+Biotechnology and Synthetic Biology,14.0301,Agricultural Engineering,Master's degree,208,124,84,125,125,54,83,53,30
+Biotechnology and Synthetic Biology,14.0301,Agricultural Engineering,Doctor's degree – research/scholarship,153,94,59,60,60,27,93,61,32
+Biotechnology and Synthetic Biology,14.0301,Agricultural Engineering,Postbaccalaureate certificate,1,0,1,1,1,1,0,0,0
+Biotechnology and Synthetic Biology,26.0202,Biochemistry,All award levels (total),10000,4871,5129,9183,9183,4665,817,353,464
+Biotechnology and Synthetic Biology,26.0202,Biochemistry,Associate's degree,12,5,7,12,12,7,0,0,0
+Biotechnology and Synthetic Biology,26.0202,Biochemistry,Bachelor's degree,9140,4430,4710,8561,8561,4373,579,242,337
+Biotechnology and Synthetic Biology,26.0202,Biochemistry,Master's degree,322,161,161,241,241,114,81,34,47
+Biotechnology and Synthetic Biology,26.0202,Biochemistry,Doctor's degree – research/scholarship,523,275,248,366,366,168,157,77,80
+Biotechnology and Synthetic Biology,26.0202,Biochemistry,Postbaccalaureate certificate,3,0,3,3,3,3,0,0,0
+Biotechnology and Synthetic Biology,26.0406,Cell/Cellular and Molecular Biology,All award levels (total),3571,1579,1992,3262,3262,1817,309,134,175
+Biotechnology and Synthetic Biology,26.0406,Cell/Cellular and Molecular Biology,Bachelor's degree,2928,1267,1661,2778,2778,1577,150,66,84
+Biotechnology and Synthetic Biology,26.0406,Cell/Cellular and Molecular Biology,Master's degree,194,88,106,143,143,73,51,18,33
+Biotechnology and Synthetic Biology,26.0406,Cell/Cellular and Molecular Biology,Doctor's degree – research/scholarship,420,207,213,316,316,157,104,48,56
+Biotechnology and Synthetic Biology,26.0406,Cell/Cellular and Molecular Biology,Postbaccalaureate certificate,3,2,1,3,3,1,0,0,0
+Biotechnology and Synthetic Biology,26.0406,Cell/Cellular and Molecular Biology,Post-master's certificate,26,15,11,22,22,9,4,2,2
+Biotechnology and Synthetic Biology,26.0502,"Microbiology, General",All award levels (total),2760,1156,1604,2641,2641,1531,119,46,73
+Biotechnology and Synthetic Biology,26.0502,"Microbiology, General",Associate's degree,11,3,8,11,11,8,0,0,0
+Biotechnology and Synthetic Biology,26.0502,"Microbiology, General",Bachelor's degree,2360,1005,1355,2295,2295,1314,65,24,41
+Biotechnology and Synthetic Biology,26.0502,"Microbiology, General",Master's degree,183,65,118,161,161,104,22,8,14
+Biotechnology and Synthetic Biology,26.0502,"Microbiology, General",Doctor's degree – research/scholarship,201,82,119,169,169,101,32,14,18
+Biotechnology and Synthetic Biology,26.0502,"Microbiology, General",Postbaccalaureate certificate,3,1,2,3,3,2,0,0,0
+Biotechnology and Synthetic Biology,26.0502,"Microbiology, General",Post-master's certificate,2,0,2,2,2,2,0,0,0
+Biotechnology and Synthetic Biology,26.0801,"Genetics, General",All award levels (total),584,195,389,521,521,348,63,22,41
+Biotechnology and Synthetic Biology,26.0801,"Genetics, General",Bachelor's degree,388,118,270,367,367,253,21,4,17
+Biotechnology and Synthetic Biology,26.0801,"Genetics, General",Master's degree,58,24,34,49,49,29,9,4,5
+Biotechnology and Synthetic Biology,26.0801,"Genetics, General",Doctor's degree – research/scholarship,138,53,85,105,105,66,33,14,19
+Biotechnology and Synthetic Biology,26.1007,Pharmacology and Toxicology,All award levels (total),228,89,139,167,167,95,61,17,44
+Biotechnology and Synthetic Biology,26.1007,Pharmacology and Toxicology,Bachelor's degree,71,31,40,68,68,39,3,2,1
+Biotechnology and Synthetic Biology,26.1007,Pharmacology and Toxicology,Master's degree,102,36,66,64,64,37,38,9,29
+Biotechnology and Synthetic Biology,26.1007,Pharmacology and Toxicology,Doctor's degree – research/scholarship,55,22,33,35,35,19,20,6,14
+Biotechnology and Synthetic Biology,26.1103,Bioinformatics,All award levels (total),881,490,391,640,640,258,241,108,133
+Biotechnology and Synthetic Biology,26.1103,Bioinformatics,Postsecondary certificate > 60 semester credit hours,1,1,0,1,1,0,0,0,0
+Biotechnology and Synthetic Biology,26.1103,Bioinformatics,Associate's degree,10,0,10,10,10,10,0,0,0
+Biotechnology and Synthetic Biology,26.1103,Bioinformatics,Bachelor's degree,288,166,122,263,263,106,25,9,16
+Biotechnology and Synthetic Biology,26.1103,Bioinformatics,Master's degree,420,221,199,256,256,103,164,68,96
+Biotechnology and Synthetic Biology,26.1103,Bioinformatics,Doctor's degree – research/scholarship,119,81,38,79,79,23,40,25,15
+Biotechnology and Synthetic Biology,26.1103,Bioinformatics,Postbaccalaureate certificate,39,19,20,28,28,14,11,5,6
+Biotechnology and Synthetic Biology,26.1103,Bioinformatics,Post-master's certificate,4,2,2,3,3,2,1,1,0
+Biotechnology and Synthetic Biology,26.1201,Biotechnology,All award levels (total),2696,1173,1523,2235,2235,1244,461,182,279
+Biotechnology and Synthetic Biology,26.1201,Biotechnology,Postsecondary certificate < 60 semester credit hours,46,18,28,44,44,28,2,2,0
+Biotechnology and Synthetic Biology,26.1201,Biotechnology,Postsecondary certificate > 60 semester credit hours,1,0,1,1,1,1,0,0,0
+Biotechnology and Synthetic Biology,26.1201,Biotechnology,Associate's degree,249,106,143,242,242,140,7,4,3
+Biotechnology and Synthetic Biology,26.1201,Biotechnology,Bachelor's degree,969,449,520,890,890,473,79,32,47
+Biotechnology and Synthetic Biology,26.1201,Biotechnology,Master's degree,1364,565,799,1003,1003,575,361,137,224
+Biotechnology and Synthetic Biology,26.1201,Biotechnology,Doctor's degree – research/scholarship,17,11,6,12,12,5,5,4,1
+Biotechnology and Synthetic Biology,26.1201,Biotechnology,Postbaccalaureate certificate,45,22,23,39,39,19,6,2,4
+Biotechnology and Synthetic Biology,26.1201,Biotechnology,Post-master's certificate,5,2,3,4,4,3,1,1,0
+Biotechnology and Synthetic Biology,26.1307,Conservation Biology,All award levels (total),274,92,182,261,261,171,13,2,11
+Biotechnology and Synthetic Biology,26.1307,Conservation Biology,Bachelor's degree,165,56,109,163,163,107,2,0,2
+Biotechnology and Synthetic Biology,26.1307,Conservation Biology,Master's degree,91,29,62,82,82,54,9,1,8
+Biotechnology and Synthetic Biology,26.1307,Conservation Biology,Doctor's degree – research/scholarship,12,6,6,10,10,5,2,1,1
+Biotechnology and Synthetic Biology,26.1307,Conservation Biology,Postbaccalaureate certificate,6,1,5,6,6,5,0,0,0
+Biotechnology and Synthetic Biology,41.0101,Biology/Biotechnology Technology/Technician,All award levels (total),567,209,358,540,540,338,27,7,20
+Biotechnology and Synthetic Biology,41.0101,Biology/Biotechnology Technology/Technician,Postsecondary certificate < 60 semester credit hours,116,36,80,113,113,78,3,1,2
+Biotechnology and Synthetic Biology,41.0101,Biology/Biotechnology Technology/Technician,Associate's degree,402,151,251,392,392,244,10,3,7
+Biotechnology and Synthetic Biology,41.0101,Biology/Biotechnology Technology/Technician,Bachelor's degree,43,19,24,29,29,13,14,3,11
+Biotechnology and Synthetic Biology,41.0101,Biology/Biotechnology Technology/Technician,Doctor's degree – research/scholarship,3,1,2,3,3,2,0,0,0
+Biotechnology and Synthetic Biology,41.0101,Biology/Biotechnology Technology/Technician,Postbaccalaureate certificate,3,2,1,3,3,1,0,0,0
+Cryptography,11.0401,Information Science/Studies,All award levels (total),17091,11766,5325,12669,12669,3546,4422,2643,1779
+Cryptography,11.0401,Information Science/Studies,Postsecondary certificate < 60 semester credit hours,194,149,45,193,193,44,1,0,1
+Cryptography,11.0401,Information Science/Studies,Postsecondary certificate > 60 semester credit hours,130,101,29,128,128,28,2,1,1
+Cryptography,11.0401,Information Science/Studies,Associate's degree,957,768,189,940,940,185,17,13,4
+Cryptography,11.0401,Information Science/Studies,Bachelor's degree,8327,6213,2114,7792,7792,1935,535,356,179
+Cryptography,11.0401,Information Science/Studies,Master's degree,6913,4204,2709,3261,3261,1199,3652,2142,1510
+Cryptography,11.0401,Information Science/Studies,Doctor's degree – research/scholarship,164,89,75,105,105,50,59,34,25
+Cryptography,11.0401,Information Science/Studies,Postbaccalaureate certificate,391,239,152,235,235,93,156,97,59
+Cryptography,11.0401,Information Science/Studies,Post-master's certificate,15,3,12,15,15,12,0,0,0
+Cryptography,11.0501,Computer Systems Analysis/Analyst,All award levels (total),2219,1616,603,1570,1570,339,649,385,264
+Cryptography,11.0501,Computer Systems Analysis/Analyst,Postsecondary certificate < 60 semester credit hours,142,120,22,141,141,21,1,0,1
+Cryptography,11.0501,Computer Systems Analysis/Analyst,Associate's degree,103,87,16,99,99,14,4,2,2
+Cryptography,11.0501,Computer Systems Analysis/Analyst,Bachelor's degree,1143,891,252,1061,1061,217,82,47,35
+Cryptography,11.0501,Computer Systems Analysis/Analyst,Master's degree,698,443,255,211,211,65,487,297,190
+Cryptography,11.0501,Computer Systems Analysis/Analyst,Doctor's degree – research/scholarship,2,2,0,0,0,0,2,2,0
+Cryptography,11.0501,Computer Systems Analysis/Analyst,Postbaccalaureate certificate,131,73,58,58,58,22,73,37,36
+Cryptography,11.0701,Computer Science,All award levels (total),44106,34642,9464,30744,30744,5539,13362,9437,3925
+Cryptography,11.0701,Computer Science,Postsecondary certificate < 60 semester credit hours,60,53,7,56,56,6,4,3,1
+Cryptography,11.0701,Computer Science,Associate's degree,2511,2134,377,2324,2324,338,187,148,39
+Cryptography,11.0701,Computer Science,Bachelor's degree,27742,22519,5223,24539,24539,4385,3203,2365,838
+Cryptography,11.0701,Computer Science,Master's degree,12602,8968,3634,3271,3271,703,9331,6400,2931
+Cryptography,11.0701,Computer Science,Doctor's degree – research/scholarship,970,812,158,383,383,65,587,494,93
+Cryptography,11.0701,Computer Science,Doctor's degree – other,45,34,11,45,45,11,0,0,0
+Cryptography,11.0701,Computer Science,Postbaccalaureate certificate,149,102,47,115,115,29,34,16,18
+Cryptography,11.0701,Computer Science,Post-master's certificate,27,20,7,11,11,2,16,11,5
+Cryptography,11.0802,Data Modeling/Warehousing and Database Administration,All award levels (total),1390,854,536,885,885,309,505,278,227
+Cryptography,11.0802,Data Modeling/Warehousing and Database Administration,Postsecondary certificate < 60 semester credit hours,75,47,28,67,67,23,8,3,5
+Cryptography,11.0802,Data Modeling/Warehousing and Database Administration,Postsecondary certificate > 60 semester credit hours,15,11,4,14,14,3,1,0,1
+Cryptography,11.0802,Data Modeling/Warehousing and Database Administration,Associate's degree,97,65,32,94,94,30,3,1,2
+Cryptography,11.0802,Data Modeling/Warehousing and Database Administration,Bachelor's degree,138,100,38,118,118,34,20,16,4
+Cryptography,11.0802,Data Modeling/Warehousing and Database Administration,Master's degree,778,468,310,467,467,172,311,173,138
+Cryptography,11.0802,Data Modeling/Warehousing and Database Administration,Postbaccalaureate certificate,233,137,96,105,105,36,128,68,60
+Cryptography,11.0802,Data Modeling/Warehousing and Database Administration,Post-master's certificate,54,26,28,20,20,11,34,17,17
+Cryptography,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,All award levels (total),12630,10111,2519,10436,10436,1971,2194,1646,548
+Cryptography,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,Postsecondary certificate < 60 semester credit hours,682,555,127,673,673,125,9,7,2
+Cryptography,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,Postsecondary certificate > 60 semester credit hours,3,1,2,3,3,2,0,0,0
+Cryptography,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,Associate's degree,2127,1727,400,2086,2086,391,41,32,9
+Cryptography,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,Bachelor's degree,3886,3264,622,3790,3790,600,96,74,22
+Cryptography,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,Master's degree,4990,3835,1155,3060,3060,676,1930,1451,479
+Cryptography,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,Doctor's degree – research/scholarship,43,35,8,43,43,8,0,0,0
+Cryptography,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,Postbaccalaureate certificate,860,663,197,745,745,162,115,80,35
+Cryptography,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,Post-master's certificate,39,31,8,36,36,7,3,2,1
+Cryptography,27.0101,"Mathematics, General",All award levels (total),29221,17808,11413,24412,24412,9513,4809,2909,1900
+Cryptography,27.0101,"Mathematics, General",Postsecondary certificate < 60 semester credit hours,29,18,11,26,26,11,3,3,0
+Cryptography,27.0101,"Mathematics, General",Associate's degree,4101,2857,1244,3843,3843,1140,258,154,104
+Cryptography,27.0101,"Mathematics, General",Bachelor's degree,21076,12258,8818,17892,17892,7440,3184,1806,1378
+Cryptography,27.0101,"Mathematics, General",Master's degree,2717,1692,1025,1943,1943,755,774,504,270
+Cryptography,27.0101,"Mathematics, General",Doctor's degree – research/scholarship,1179,911,268,638,638,133,541,406,135
+Cryptography,27.0101,"Mathematics, General",Postbaccalaureate certificate,106,60,46,68,68,34,38,26,12
+Cryptography,27.0101,"Mathematics, General",Post-master's certificate,13,12,1,2,2,0,11,10,1
+Cryptography,27.0303,Computational Mathematics,All award levels (total),275,191,84,208,208,66,67,49,18
+Cryptography,27.0303,Computational Mathematics,Bachelor's degree,228,158,70,174,174,55,54,39,15
+Cryptography,27.0303,Computational Mathematics,Master's degree,9,5,4,6,6,3,3,2,1
+Cryptography,27.0303,Computational Mathematics,Doctor's degree – research/scholarship,28,19,9,22,22,7,6,4,2
+Cryptography,27.0303,Computational Mathematics,Postbaccalaureate certificate,10,9,1,6,6,1,4,4,0
+Cryptography,27.0502,Mathematical Statistics and Probability,All award levels (total),447,248,199,172,172,61,275,137,138
+Cryptography,27.0502,Mathematical Statistics and Probability,Bachelor's degree,265,145,120,143,143,56,122,58,64
+Cryptography,27.0502,Mathematical Statistics and Probability,Master's degree,168,92,76,25,25,4,143,71,72
+Cryptography,27.0502,Mathematical Statistics and Probability,Doctor's degree – research/scholarship,14,11,3,4,4,1,10,8,2
+Cryptography,27.0503,Mathematics and Statistics,All award levels (total),233,145,88,183,183,62,50,24,26
+Cryptography,27.0503,Mathematics and Statistics,Bachelor's degree,146,93,53,124,124,43,22,12,10
+Cryptography,27.0503,Mathematics and Statistics,Master's degree,86,52,34,59,59,19,27,12,15
+Cryptography,27.0503,Mathematics and Statistics,Doctor's degree – research/scholarship,1,0,1,0,0,0,1,0,1
+Cryptography,52.1302,Business Statistics,All award levels (total),1951,1109,842,1153,1153,435,798,391,407
+Cryptography,52.1302,Business Statistics,Bachelor's degree,470,283,187,384,384,150,86,49,37
+Cryptography,52.1302,Business Statistics,Master's degree,1159,640,519,563,563,211,596,288,308
+Cryptography,52.1302,Business Statistics,Postbaccalaureate certificate,285,165,120,190,190,71,95,46,49
+Cryptography,52.1302,Business Statistics,Post-master's certificate,37,21,16,16,16,3,21,8,13
+Lasers,14.0803,Structural Engineering,All award levels (total),417,301,116,302,302,79,115,78,37
+Lasers,14.0803,Structural Engineering,Associate's degree,2,2,0,2,2,0,0,0,0
+Lasers,14.0803,Structural Engineering,Bachelor's degree,160,120,40,146,146,38,14,12,2
+Lasers,14.0803,Structural Engineering,Master's degree,245,171,74,148,148,39,97,62,35
+Lasers,14.0803,Structural Engineering,Doctor's degree – research/scholarship,8,6,2,4,4,2,4,4,0
+Lasers,14.0803,Structural Engineering,Postbaccalaureate certificate,2,2,0,2,2,0,0,0,0
+Lasers,14.1001,Electrical and Electronics Engineering,All award levels (total),31086,25564,5522,18952,18952,2655,12134,9267,2867
+Lasers,14.1001,Electrical and Electronics Engineering,Postsecondary certificate < 60 semester credit hours,2,2,0,2,2,0,0,0,0
+Lasers,14.1001,Electrical and Electronics Engineering,Associate's degree,279,246,33,252,252,30,27,24,3
+Lasers,14.1001,Electrical and Electronics Engineering,Bachelor's degree,17107,14666,2441,14703,14703,2041,2404,2004,400
+Lasers,14.1001,Electrical and Electronics Engineering,Master's degree,11266,8638,2628,3305,3305,467,7961,5800,2161
+Lasers,14.1001,Electrical and Electronics Engineering,Doctor's degree – research/scholarship,2302,1903,399,647,647,113,1655,1369,286
+Lasers,14.1001,Electrical and Electronics Engineering,Postbaccalaureate certificate,94,79,15,30,30,2,64,51,13
+Lasers,14.1001,Electrical and Electronics Engineering,Post-master's certificate,36,30,6,13,13,2,23,19,4
+Lasers,14.1003,Laser and Optical Engineering,All award levels (total),123,95,28,79,79,21,44,37,7
+Lasers,14.1003,Laser and Optical Engineering,Bachelor's degree,63,43,20,51,51,17,12,9,3
+Lasers,14.1003,Laser and Optical Engineering,Master's degree,43,37,6,21,21,2,22,18,4
+Lasers,14.1003,Laser and Optical Engineering,Doctor's degree – research/scholarship,17,15,2,7,7,2,10,10,0
+Lasers,14.1004,Telecommunications Engineering,All award levels (total),243,174,69,66,66,7,177,115,62
+Lasers,14.1004,Telecommunications Engineering,Postsecondary certificate < 60 semester credit hours,18,17,1,18,18,1,0,0,0
+Lasers,14.1004,Telecommunications Engineering,Associate's degree,10,9,1,10,10,1,0,0,0
+Lasers,14.1004,Telecommunications Engineering,Bachelor's degree,5,5,0,4,4,0,1,1,0
+Lasers,14.1004,Telecommunications Engineering,Master's degree,201,137,64,29,29,3,172,111,61
+Lasers,14.1004,Telecommunications Engineering,Doctor's degree – research/scholarship,2,2,0,1,1,0,1,1,0
+Lasers,14.1004,Telecommunications Engineering,Postbaccalaureate certificate,4,3,1,1,1,0,3,2,1
+Lasers,14.1004,Telecommunications Engineering,Post-master's certificate,3,1,2,3,3,2,0,0,0
+Lasers,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",All award levels (total),5623,5154,469,5436,5436,448,187,166,21
+Lasers,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",Postsecondary certificate < 60 semester credit hours,1045,967,78,1036,1036,76,9,7,2
+Lasers,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",Postsecondary certificate > 60 semester credit hours,3,3,0,3,3,0,0,0,0
+Lasers,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",Associate's degree,3112,2854,258,3075,3075,252,37,31,6
+Lasers,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",Bachelor's degree,1447,1316,131,1313,1313,119,134,122,12
+Lasers,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",Master's degree,16,14,2,9,9,1,7,6,1
+Lasers,15.0304,Laser and Optical Technology/Technician,All award levels (total),92,84,8,92,92,8,0,0,0
+Lasers,15.0304,Laser and Optical Technology/Technician,Postsecondary certificate < 60 semester credit hours,9,8,1,9,9,1,0,0,0
+Lasers,15.0304,Laser and Optical Technology/Technician,Associate's degree,83,76,7,83,83,7,0,0,0
+Lasers,15.0499,"Electromechanical Technologies/Technicians, Other",All award levels (total),1338,1022,316,1335,1335,314,3,1,2
+Lasers,15.0499,"Electromechanical Technologies/Technicians, Other",Postsecondary certificate < 60 semester credit hours,214,208,6,214,214,6,0,0,0
+Lasers,15.0499,"Electromechanical Technologies/Technicians, Other",Postsecondary certificate > 60 semester credit hours,29,29,0,29,29,0,0,0,0
+Lasers,15.0499,"Electromechanical Technologies/Technicians, Other",Associate's degree,1080,774,306,1077,1077,304,3,1,2
+Lasers,15.0499,"Electromechanical Technologies/Technicians, Other",Bachelor's degree,15,11,4,15,15,4,0,0,0
+Lasers,40.0502,Analytical Chemistry,All award levels (total),47,23,24,36,36,21,11,8,3
+Lasers,40.0502,Analytical Chemistry,Bachelor's degree,11,2,9,11,11,9,0,0,0
+Lasers,40.0502,Analytical Chemistry,Master's degree,28,16,12,21,21,10,7,5,2
+Lasers,40.0502,Analytical Chemistry,Doctor's degree – research/scholarship,5,3,2,3,3,2,2,2,0
+Lasers,40.0502,Analytical Chemistry,Postbaccalaureate certificate,3,2,1,1,1,0,2,1,1
+Lasers,40.0807,Optics/Optical Sciences,All award levels (total),230,168,62,158,158,48,72,58,14
+Lasers,40.0807,Optics/Optical Sciences,Associate's degree,19,8,11,19,19,11,0,0,0
+Lasers,40.0807,Optics/Optical Sciences,Bachelor's degree,52,36,16,49,49,16,3,3,0
+Lasers,40.0807,Optics/Optical Sciences,Master's degree,98,81,17,51,51,8,47,38,9
+Lasers,40.0807,Optics/Optical Sciences,Doctor's degree – research/scholarship,56,39,17,34,34,12,22,17,5
+Lasers,40.0807,Optics/Optical Sciences,Postbaccalaureate certificate,5,4,1,5,5,1,0,0,0
+Lasers,40.0808,Condensed Matter and Materials Physics,All award levels (total),12,10,2,7,7,1,5,4,1
+Lasers,40.0808,Condensed Matter and Materials Physics,Bachelor's degree,3,2,1,3,3,1,0,0,0
+Lasers,40.0808,Condensed Matter and Materials Physics,Master's degree,3,2,1,1,1,0,2,1,1
+Lasers,40.0808,Condensed Matter and Materials Physics,Doctor's degree – research/scholarship,6,6,0,3,3,0,3,3,0
+Materials Science,14.0601,Ceramic Sciences and Engineering,All award levels (total),111,75,36,96,96,31,15,10,5
+Materials Science,14.0601,Ceramic Sciences and Engineering,Bachelor's degree,81,49,32,78,78,30,3,1,2
+Materials Science,14.0601,Ceramic Sciences and Engineering,Master's degree,16,14,2,8,8,0,8,6,2
+Materials Science,14.0601,Ceramic Sciences and Engineering,Doctor's degree – research/scholarship,14,12,2,10,10,1,4,3,1
+Materials Science,14.0701,Chemical Engineering,All award levels (total),14467,9439,5028,11670,11670,4079,2797,1848,949
+Materials Science,14.0701,Chemical Engineering,Associate's degree,40,23,17,26,26,8,14,5,9
+Materials Science,14.0701,Chemical Engineering,Bachelor's degree,11547,7522,4025,10262,10262,3621,1285,881,404
+Materials Science,14.0701,Chemical Engineering,Master's degree,1876,1196,680,873,873,297,1003,620,383
+Materials Science,14.0701,Chemical Engineering,Doctor's degree – research/scholarship,993,694,299,502,502,148,491,340,151
+Materials Science,14.0701,Chemical Engineering,Postbaccalaureate certificate,1,0,1,0,0,0,1,0,1
+Materials Science,14.0701,Chemical Engineering,Post-master's certificate,10,4,6,7,7,5,3,2,1
+Materials Science,14.0702,Chemical and Biomolecular Engineering,All award levels (total),230,148,82,181,181,65,49,32,17
+Materials Science,14.0702,Chemical and Biomolecular Engineering,Associate's degree,1,1,0,1,1,0,0,0,0
+Materials Science,14.0702,Chemical and Biomolecular Engineering,Bachelor's degree,162,99,63,151,151,57,11,5,6
+Materials Science,14.0702,Chemical and Biomolecular Engineering,Master's degree,43,30,13,15,15,4,28,19,9
+Materials Science,14.0702,Chemical and Biomolecular Engineering,Doctor's degree – research/scholarship,24,18,6,14,14,4,10,8,2
+Materials Science,14.1801,Materials Engineering,All award levels (total),3435,2435,1000,2274,2274,671,1161,832,329
+Materials Science,14.1801,Materials Engineering,Postsecondary certificate < 60 semester credit hours,24,23,1,24,24,1,0,0,0
+Materials Science,14.1801,Materials Engineering,Associate's degree,9,5,4,7,7,3,2,1,1
+Materials Science,14.1801,Materials Engineering,Bachelor's degree,1526,1053,473,1360,1360,419,166,112,54
+Materials Science,14.1801,Materials Engineering,Master's degree,1162,837,325,558,558,157,604,436,168
+Materials Science,14.1801,Materials Engineering,Doctor's degree – research/scholarship,708,512,196,323,323,90,385,279,106
+Materials Science,14.1801,Materials Engineering,Postbaccalaureate certificate,1,1,0,1,1,0,0,0,0
+Materials Science,14.1801,Materials Engineering,Post-master's certificate,5,4,1,1,1,1,4,4,0
+Materials Science,14.3201,Polymer/Plastics Engineering,All award levels (total),347,247,100,242,242,61,105,66,39
+Materials Science,14.3201,Polymer/Plastics Engineering,Bachelor's degree,165,123,42,157,157,38,8,4,4
+Materials Science,14.3201,Polymer/Plastics Engineering,Master's degree,106,70,36,43,43,10,63,37,26
+Materials Science,14.3201,Polymer/Plastics Engineering,Doctor's degree – research/scholarship,61,44,17,29,29,8,32,23,9
+Materials Science,14.3201,Polymer/Plastics Engineering,Postbaccalaureate certificate,15,10,5,13,13,5,2,2,0
+Materials Science,14.9999,"Engineering, Other",All award levels (total),2827,2094,733,2124,2124,541,703,511,192
+Materials Science,14.9999,"Engineering, Other",Postsecondary certificate < 60 semester credit hours,24,12,12,24,24,12,0,0,0
+Materials Science,14.9999,"Engineering, Other",Postsecondary certificate > 60 semester credit hours,1,1,0,1,1,0,0,0,0
+Materials Science,14.9999,"Engineering, Other",Associate's degree,15,15,0,15,15,0,0,0,0
+Materials Science,14.9999,"Engineering, Other",Bachelor's degree,999,766,233,854,854,218,145,130,15
+Materials Science,14.9999,"Engineering, Other",Master's degree,1386,990,396,932,932,254,454,312,142
+Materials Science,14.9999,"Engineering, Other",Doctor's degree – research/scholarship,163,112,51,83,83,23,80,52,28
+Materials Science,14.9999,"Engineering, Other",Postbaccalaureate certificate,229,192,37,209,209,32,20,15,5
+Materials Science,14.9999,"Engineering, Other",Post-master's certificate,10,6,4,6,6,2,4,2,2
+Materials Science,40.0507,Polymer Chemistry,All award levels (total),116,77,39,27,27,8,89,58,31
+Materials Science,40.0507,Polymer Chemistry,Bachelor's degree,1,1,0,1,1,0,0,0,0
+Materials Science,40.0507,Polymer Chemistry,Master's degree,63,38,25,15,15,7,48,30,18
+Materials Science,40.0507,Polymer Chemistry,Doctor's degree – research/scholarship,52,38,14,11,11,1,41,28,13
+Materials Science,40.0508,Chemical Physics,All award levels (total),56,38,18,40,40,14,16,12,4
+Materials Science,40.0508,Chemical Physics,Bachelor's degree,33,23,10,32,32,10,1,1,0
+Materials Science,40.0508,Chemical Physics,Master's degree,6,4,2,2,2,1,4,3,1
+Materials Science,40.0508,Chemical Physics,Doctor's degree – research/scholarship,17,11,6,6,6,3,11,8,3
+Materials Science,40.1001,Materials Science,All award levels (total),556,367,189,328,328,112,228,151,77
+Materials Science,40.1001,Materials Science,Bachelor's degree,165,100,65,136,136,54,29,18,11
+Materials Science,40.1001,Materials Science,Master's degree,238,163,75,99,99,30,139,94,45
+Materials Science,40.1001,Materials Science,Doctor's degree – research/scholarship,150,101,49,91,91,28,59,38,21
+Materials Science,40.1001,Materials Science,Post-master's certificate,3,3,0,2,2,0,1,1,0
+Materials Science,40.1002,Materials Chemistry,All award levels (total),19,11,8,10,10,3,9,4,5
+Materials Science,40.1002,Materials Chemistry,Bachelor's degree,4,3,1,4,4,1,0,0,0
+Materials Science,40.1002,Materials Chemistry,Master's degree,7,3,4,4,4,2,3,1,2
+Materials Science,40.1002,Materials Chemistry,Doctor's degree – research/scholarship,8,5,3,2,2,0,6,3,3
+Neuroscience,26.0203,Biophysics,All award levels (total),313,205,108,267,267,89,46,27,19
+Neuroscience,26.0203,Biophysics,Bachelor's degree,185,121,64,171,171,60,14,10,4
+Neuroscience,26.0203,Biophysics,Master's degree,26,17,9,21,21,5,5,1,4
+Neuroscience,26.0203,Biophysics,Doctor's degree – research/scholarship,99,66,33,72,72,22,27,16,11
+Neuroscience,26.0203,Biophysics,Doctor's degree – professional practice,3,1,2,3,3,2,0,0,0
+Neuroscience,26.1001,Pharmacology,All award levels (total),518,256,262,412,412,210,106,54,52
+Neuroscience,26.1001,Pharmacology,Bachelor's degree,82,41,41,77,77,39,5,3,2
+Neuroscience,26.1001,Pharmacology,Master's degree,226,115,111,181,181,89,45,23,22
+Neuroscience,26.1001,Pharmacology,Doctor's degree – research/scholarship,210,100,110,154,154,82,56,28,28
+Neuroscience,26.1003,Neuropharmacology,All award levels (total),32,19,13,28,28,11,4,2,2
+Neuroscience,26.1003,Neuropharmacology,Master's degree,32,19,13,28,28,11,4,2,2
+Neuroscience,26.1007,Pharmacology and Toxicology,All award levels (total),228,89,139,167,167,95,61,17,44
+Neuroscience,26.1007,Pharmacology and Toxicology,Bachelor's degree,71,31,40,68,68,39,3,2,1
+Neuroscience,26.1007,Pharmacology and Toxicology,Master's degree,102,36,66,64,64,37,38,9,29
+Neuroscience,26.1007,Pharmacology and Toxicology,Doctor's degree – research/scholarship,55,22,33,35,35,19,20,6,14
+Neuroscience,26.1501,Neuroscience,All award levels (total),7529,2654,4875,7173,7173,4649,356,130,226
+Neuroscience,26.1501,Neuroscience,Postsecondary certificate < 60 semester credit hours,19,8,11,19,19,11,0,0,0
+Neuroscience,26.1501,Neuroscience,Associate's degree,3,2,1,3,3,1,0,0,0
+Neuroscience,26.1501,Neuroscience,Bachelor's degree,6581,2252,4329,6349,6349,4170,232,73,159
+Neuroscience,26.1501,Neuroscience,Master's degree,243,95,148,202,202,123,41,16,25
+Neuroscience,26.1501,Neuroscience,Doctor's degree – research/scholarship,636,278,358,557,557,318,79,39,40
+Neuroscience,26.1501,Neuroscience,Postbaccalaureate certificate,12,6,6,9,9,4,3,1,2
+Neuroscience,26.1501,Neuroscience,Post-master's certificate,35,13,22,34,34,22,1,1,0
+Neuroscience,26.1503,Neurobiology and Anatomy,All award levels (total),928,363,565,875,875,531,53,19,34
+Neuroscience,26.1503,Neurobiology and Anatomy,Bachelor's degree,847,335,512,803,803,484,44,16,28
+Neuroscience,26.1503,Neurobiology and Anatomy,Master's degree,11,2,9,9,9,7,2,0,2
+Neuroscience,26.1503,Neurobiology and Anatomy,Doctor's degree – research/scholarship,54,17,37,47,47,33,7,3,4
+Neuroscience,26.1503,Neurobiology and Anatomy,Postbaccalaureate certificate,16,9,7,16,16,7,0,0,0
+Neuroscience,26.1504,Neurobiology and Behavior,All award levels (total),196,64,132,190,190,131,6,5,1
+Neuroscience,26.1504,Neurobiology and Behavior,Bachelor's degree,148,44,104,146,146,104,2,2,0
+Neuroscience,26.1504,Neurobiology and Behavior,Master's degree,33,10,23,30,30,22,3,2,1
+Neuroscience,26.1504,Neurobiology and Behavior,Doctor's degree – research/scholarship,15,10,5,14,14,5,1,1,0
+Neuroscience,42.2701,Cognitive Psychology and Psycholinguistics,All award levels (total),214,56,158,188,188,138,26,6,20
+Neuroscience,42.2701,Cognitive Psychology and Psycholinguistics,Bachelor's degree,160,39,121,153,153,117,7,3,4
+Neuroscience,42.2701,Cognitive Psychology and Psycholinguistics,Master's degree,26,5,21,14,14,11,12,2,10
+Neuroscience,42.2701,Cognitive Psychology and Psycholinguistics,Doctor's degree – research/scholarship,19,7,12,15,15,8,4,0,4
+Neuroscience,42.2701,Cognitive Psychology and Psycholinguistics,Postbaccalaureate certificate,9,5,4,6,6,2,3,1,2
+Neuroscience,42.2706,Behavioral Neuroscience,All award levels (total),1285,351,934,1256,1256,912,29,7,22
+Neuroscience,42.2706,Behavioral Neuroscience,Bachelor's degree,1227,333,894,1207,1207,878,20,4,16
+Neuroscience,42.2706,Behavioral Neuroscience,Master's degree,42,11,31,34,34,25,8,2,6
+Neuroscience,42.2706,Behavioral Neuroscience,Doctor's degree – research/scholarship,16,7,9,15,15,9,1,1,0
+Robotics,11.0102,Artificial Intelligence,All award levels (total),247,189,58,127,127,26,120,88,32
+Robotics,11.0102,Artificial Intelligence,Bachelor's degree,11,11,0,11,11,0,0,0,0
+Robotics,11.0102,Artificial Intelligence,Master's degree,205,153,52,104,104,23,101,72,29
+Robotics,11.0102,Artificial Intelligence,Doctor's degree – research/scholarship,31,25,6,12,12,3,19,16,3
+Robotics,11.0103,Information Technology,All award levels (total),21125,15694,5431,17502,17502,3964,3623,2156,1467
+Robotics,11.0103,Information Technology,Postsecondary certificate < 60 semester credit hours,480,378,102,475,475,100,5,3,2
+Robotics,11.0103,Information Technology,Postsecondary certificate > 60 semester credit hours,13,13,0,13,13,0,0,0,0
+Robotics,11.0103,Information Technology,Associate's degree,4924,3906,1018,4763,4763,992,161,135,26
+Robotics,11.0103,Information Technology,Bachelor's degree,10388,8227,2161,9877,9877,2013,511,363,148
+Robotics,11.0103,Information Technology,Master's degree,4994,2945,2049,2122,2122,784,2872,1607,1265
+Robotics,11.0103,Information Technology,Doctor's degree – research/scholarship,57,43,14,24,24,8,33,27,6
+Robotics,11.0103,Information Technology,Postbaccalaureate certificate,267,181,86,226,226,66,41,21,20
+Robotics,11.0103,Information Technology,Post-master's certificate,2,1,1,2,2,1,0,0,0
+Robotics,14.0901,"Computer Engineering, General",All award levels (total),11831,9921,1910,8456,8456,1062,3375,2527,848
+Robotics,14.0901,"Computer Engineering, General",Associate's degree,25,20,5,25,25,5,0,0,0
+Robotics,14.0901,"Computer Engineering, General",Bachelor's degree,8486,7406,1080,7513,7513,911,973,804,169
+Robotics,14.0901,"Computer Engineering, General",Master's degree,2871,2147,724,759,759,120,2112,1508,604
+Robotics,14.0901,"Computer Engineering, General",Doctor's degree – research/scholarship,376,295,81,122,122,19,254,192,62
+Robotics,14.0901,"Computer Engineering, General",Postbaccalaureate certificate,44,36,8,17,17,1,27,20,7
+Robotics,14.0901,"Computer Engineering, General",Post-master's certificate,29,17,12,20,20,6,9,3,6
+Robotics,14.0903,Computer Software Engineering,All award levels (total),3261,2421,840,1731,1731,276,1530,966,564
+Robotics,14.0903,Computer Software Engineering,Postsecondary certificate < 60 semester credit hours,3,3,0,2,2,0,1,1,0
+Robotics,14.0903,Computer Software Engineering,Associate's degree,71,62,9,71,71,9,0,0,0
+Robotics,14.0903,Computer Software Engineering,Bachelor's degree,1323,1134,189,1201,1201,166,122,99,23
+Robotics,14.0903,Computer Software Engineering,Master's degree,1808,1180,628,415,415,93,1393,858,535
+Robotics,14.0903,Computer Software Engineering,Doctor's degree – research/scholarship,7,5,2,2,2,0,5,3,2
+Robotics,14.0903,Computer Software Engineering,Postbaccalaureate certificate,48,36,12,39,39,8,9,5,4
+Robotics,14.0903,Computer Software Engineering,Post-master's certificate,1,1,0,1,1,0,0,0,0
+Robotics,14.1001,Electrical and Electronics Engineering,All award levels (total),31086,25564,5522,18952,18952,2655,12134,9267,2867
+Robotics,14.1001,Electrical and Electronics Engineering,Postsecondary certificate < 60 semester credit hours,2,2,0,2,2,0,0,0,0
+Robotics,14.1001,Electrical and Electronics Engineering,Associate's degree,279,246,33,252,252,30,27,24,3
+Robotics,14.1001,Electrical and Electronics Engineering,Bachelor's degree,17107,14666,2441,14703,14703,2041,2404,2004,400
+Robotics,14.1001,Electrical and Electronics Engineering,Master's degree,11266,8638,2628,3305,3305,467,7961,5800,2161
+Robotics,14.1001,Electrical and Electronics Engineering,Doctor's degree – research/scholarship,2302,1903,399,647,647,113,1655,1369,286
+Robotics,14.1001,Electrical and Electronics Engineering,Postbaccalaureate certificate,94,79,15,30,30,2,64,51,13
+Robotics,14.1001,Electrical and Electronics Engineering,Post-master's certificate,36,30,6,13,13,2,23,19,4
+Robotics,14.2701,Systems Engineering,All award levels (total),3431,2527,904,2758,2758,717,673,486,187
+Robotics,14.2701,Systems Engineering,Bachelor's degree,763,536,227,709,709,213,54,40,14
+Robotics,14.2701,Systems Engineering,Master's degree,2047,1529,518,1526,1526,376,521,379,142
+Robotics,14.2701,Systems Engineering,Doctor's degree – research/scholarship,110,74,36,75,75,25,35,24,11
+Robotics,14.2701,Systems Engineering,Postbaccalaureate certificate,489,371,118,430,430,99,59,40,19
+Robotics,14.2701,Systems Engineering,Post-master's certificate,22,17,5,18,18,4,4,3,1
+Robotics,14.4201,"Mechatronics, Robotics, and Automation Engineering",All award levels (total),729,622,107,511,511,72,218,183,35
+Robotics,14.4201,"Mechatronics, Robotics, and Automation Engineering",Postsecondary certificate < 60 semester credit hours,33,24,9,32,32,9,1,1,0
+Robotics,14.4201,"Mechatronics, Robotics, and Automation Engineering",Postsecondary certificate > 60 semester credit hours,10,10,0,10,10,0,0,0,0
+Robotics,14.4201,"Mechatronics, Robotics, and Automation Engineering",Associate's degree,79,72,7,79,79,7,0,0,0
+Robotics,14.4201,"Mechatronics, Robotics, and Automation Engineering",Bachelor's degree,294,252,42,264,264,37,30,25,5
+Robotics,14.4201,"Mechatronics, Robotics, and Automation Engineering",Master's degree,272,227,45,99,99,16,173,144,29
+Robotics,14.4201,"Mechatronics, Robotics, and Automation Engineering",Doctor's degree – research/scholarship,31,27,4,17,17,3,14,13,1
+Robotics,14.4201,"Mechatronics, Robotics, and Automation Engineering",Postbaccalaureate certificate,10,10,0,10,10,0,0,0,0
+Robotics,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,All award levels (total),2002,1893,109,1944,1944,104,58,53,5
+Robotics,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,Postsecondary certificate < 60 semester credit hours,754,721,33,752,752,32,2,1,1
+Robotics,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,Associate's degree,1099,1032,67,1083,1083,65,16,14,2
+Robotics,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,Bachelor's degree,143,134,9,104,104,7,39,37,2
+Robotics,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,Master's degree,6,6,0,5,5,0,1,1,0
+Robotics,15.0405,Robotics Technology/Technician,All award levels (total),358,333,25,330,330,22,28,25,3
+Robotics,15.0405,Robotics Technology/Technician,Postsecondary certificate < 60 semester credit hours,54,47,7,53,53,6,1,0,1
+Robotics,15.0405,Robotics Technology/Technician,Associate's degree,257,244,13,253,253,13,4,4,0
+Robotics,15.0405,Robotics Technology/Technician,Bachelor's degree,35,33,2,15,15,2,20,20,0
+Robotics,15.0405,Robotics Technology/Technician,Master's degree,12,9,3,9,9,1,3,1,2
+Robotics,15.0406,Automation Engineer Technology/Technician,All award levels (total),702,670,32,699,699,32,3,3,0
+Robotics,15.0406,Automation Engineer Technology/Technician,Postsecondary certificate < 60 semester credit hours,163,157,6,163,163,6,0,0,0
+Robotics,15.0406,Automation Engineer Technology/Technician,Postsecondary certificate > 60 semester credit hours,22,21,1,22,22,1,0,0,0
+Robotics,15.0406,Automation Engineer Technology/Technician,Associate's degree,389,373,16,386,386,16,3,3,0
+Robotics,15.0406,Automation Engineer Technology/Technician,Bachelor's degree,128,119,9,128,128,9,0,0,0
+Semiconductors,14.0701,Chemical Engineering,All award levels (total),14467,9439,5028,11670,11670,4079,2797,1848,949
+Semiconductors,14.0701,Chemical Engineering,Associate's degree,40,23,17,26,26,8,14,5,9
+Semiconductors,14.0701,Chemical Engineering,Bachelor's degree,11547,7522,4025,10262,10262,3621,1285,881,404
+Semiconductors,14.0701,Chemical Engineering,Master's degree,1876,1196,680,873,873,297,1003,620,383
+Semiconductors,14.0701,Chemical Engineering,Doctor's degree – research/scholarship,993,694,299,502,502,148,491,340,151
+Semiconductors,14.0701,Chemical Engineering,Postbaccalaureate certificate,1,0,1,0,0,0,1,0,1
+Semiconductors,14.0701,Chemical Engineering,Post-master's certificate,10,4,6,7,7,5,3,2,1
+Semiconductors,14.0702,Chemical and Biomolecular Engineering,All award levels (total),230,148,82,181,181,65,49,32,17
+Semiconductors,14.0702,Chemical and Biomolecular Engineering,Associate's degree,1,1,0,1,1,0,0,0,0
+Semiconductors,14.0702,Chemical and Biomolecular Engineering,Bachelor's degree,162,99,63,151,151,57,11,5,6
+Semiconductors,14.0702,Chemical and Biomolecular Engineering,Master's degree,43,30,13,15,15,4,28,19,9
+Semiconductors,14.0702,Chemical and Biomolecular Engineering,Doctor's degree – research/scholarship,24,18,6,14,14,4,10,8,2
+Semiconductors,14.0902,Computer Hardware Engineering,All award levels (total),56,46,10,34,34,2,22,14,8
+Semiconductors,14.0902,Computer Hardware Engineering,Associate's degree,2,2,0,2,2,0,0,0,0
+Semiconductors,14.0902,Computer Hardware Engineering,Master's degree,43,33,10,24,24,2,19,11,8
+Semiconductors,14.0902,Computer Hardware Engineering,Postbaccalaureate certificate,11,11,0,8,8,0,3,3,0
+Semiconductors,14.1001,Electrical and Electronics Engineering,All award levels (total),31086,25564,5522,18952,18952,2655,12134,9267,2867
+Semiconductors,14.1001,Electrical and Electronics Engineering,Postsecondary certificate < 60 semester credit hours,2,2,0,2,2,0,0,0,0
+Semiconductors,14.1001,Electrical and Electronics Engineering,Associate's degree,279,246,33,252,252,30,27,24,3
+Semiconductors,14.1001,Electrical and Electronics Engineering,Bachelor's degree,17107,14666,2441,14703,14703,2041,2404,2004,400
+Semiconductors,14.1001,Electrical and Electronics Engineering,Master's degree,11266,8638,2628,3305,3305,467,7961,5800,2161
+Semiconductors,14.1001,Electrical and Electronics Engineering,Doctor's degree – research/scholarship,2302,1903,399,647,647,113,1655,1369,286
+Semiconductors,14.1001,Electrical and Electronics Engineering,Postbaccalaureate certificate,94,79,15,30,30,2,64,51,13
+Semiconductors,14.1001,Electrical and Electronics Engineering,Post-master's certificate,36,30,6,13,13,2,23,19,4
+Semiconductors,14.3201,Polymer/Plastics Engineering,All award levels (total),347,247,100,242,242,61,105,66,39
+Semiconductors,14.3201,Polymer/Plastics Engineering,Bachelor's degree,165,123,42,157,157,38,8,4,4
+Semiconductors,14.3201,Polymer/Plastics Engineering,Master's degree,106,70,36,43,43,10,63,37,26
+Semiconductors,14.3201,Polymer/Plastics Engineering,Doctor's degree – research/scholarship,61,44,17,29,29,8,32,23,9
+Semiconductors,14.3201,Polymer/Plastics Engineering,Postbaccalaureate certificate,15,10,5,13,13,5,2,2,0
+Semiconductors,14.4101,Electromechanical Engineering,All award levels (total),84,75,9,56,56,8,28,27,1
+Semiconductors,14.4101,Electromechanical Engineering,Associate's degree,18,15,3,18,18,3,0,0,0
+Semiconductors,14.4101,Electromechanical Engineering,Bachelor's degree,35,30,5,33,33,5,2,2,0
+Semiconductors,14.4101,Electromechanical Engineering,Doctor's degree – research/scholarship,4,4,0,4,4,0,0,0,0
+Semiconductors,14.4101,Electromechanical Engineering,Postbaccalaureate certificate,27,26,1,1,1,0,26,25,1
+Semiconductors,14.9999,"Engineering, Other",All award levels (total),2827,2094,733,2124,2124,541,703,511,192
+Semiconductors,14.9999,"Engineering, Other",Postsecondary certificate < 60 semester credit hours,24,12,12,24,24,12,0,0,0
+Semiconductors,14.9999,"Engineering, Other",Postsecondary certificate > 60 semester credit hours,1,1,0,1,1,0,0,0,0
+Semiconductors,14.9999,"Engineering, Other",Associate's degree,15,15,0,15,15,0,0,0,0
+Semiconductors,14.9999,"Engineering, Other",Bachelor's degree,999,766,233,854,854,218,145,130,15
+Semiconductors,14.9999,"Engineering, Other",Master's degree,1386,990,396,932,932,254,454,312,142
+Semiconductors,14.9999,"Engineering, Other",Doctor's degree – research/scholarship,163,112,51,83,83,23,80,52,28
+Semiconductors,14.9999,"Engineering, Other",Postbaccalaureate certificate,229,192,37,209,209,32,20,15,5
+Semiconductors,14.9999,"Engineering, Other",Post-master's certificate,10,6,4,6,6,2,4,2,2
+Semiconductors,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",All award levels (total),5623,5154,469,5436,5436,448,187,166,21
+Semiconductors,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",Postsecondary certificate < 60 semester credit hours,1045,967,78,1036,1036,76,9,7,2
+Semiconductors,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",Postsecondary certificate > 60 semester credit hours,3,3,0,3,3,0,0,0,0
+Semiconductors,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",Associate's degree,3112,2854,258,3075,3075,252,37,31,6
+Semiconductors,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",Bachelor's degree,1447,1316,131,1313,1313,119,134,122,12
+Semiconductors,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",Master's degree,16,14,2,9,9,1,7,6,1
+Semiconductors,15.0616,Semiconductor Manufacturing Technology/Technician,All award levels (total),1,1,0,1,1,0,0,0,0
+Semiconductors,15.0616,Semiconductor Manufacturing Technology/Technician,Associate's degree,1,1,0,1,1,0,0,0,0
+Semiconductors,40.0808,Condensed Matter and Materials Physics,All award levels (total),12,10,2,7,7,1,5,4,1
+Semiconductors,40.0808,Condensed Matter and Materials Physics,Bachelor's degree,3,2,1,3,3,1,0,0,0
+Semiconductors,40.0808,Condensed Matter and Materials Physics,Master's degree,3,2,1,1,1,0,2,1,1
+Semiconductors,40.0808,Condensed Matter and Materials Physics,Doctor's degree – research/scholarship,6,6,0,3,3,0,3,3,0
+Space,14.0201,"Aerospace, Aeronautical, and Astronautical/Space Engineering, General",All award levels (total),6309,5397,912,5337,5337,740,972,800,172
+Space,14.0201,"Aerospace, Aeronautical, and Astronautical/Space Engineering, General",Associate's degree,3,2,1,3,3,1,0,0,0
+Space,14.0201,"Aerospace, Aeronautical, and Astronautical/Space Engineering, General",Bachelor's degree,4200,3613,587,3876,3876,531,324,268,56
+Space,14.0201,"Aerospace, Aeronautical, and Astronautical/Space Engineering, General",Master's degree,1699,1422,277,1203,1203,176,496,395,101
+Space,14.0201,"Aerospace, Aeronautical, and Astronautical/Space Engineering, General",Doctor's degree – research/scholarship,353,310,43,203,203,28,150,135,15
+Space,14.0201,"Aerospace, Aeronautical, and Astronautical/Space Engineering, General",Doctor's degree – other,1,1,0,0,0,0,1,1,0
+Space,14.0201,"Aerospace, Aeronautical, and Astronautical/Space Engineering, General",Postbaccalaureate certificate,49,45,4,48,48,4,1,1,0
+Space,14.0201,"Aerospace, Aeronautical, and Astronautical/Space Engineering, General",Post-master's certificate,4,4,0,4,4,0,0,0,0
+Space,14.0804,Transportation and Highway Engineering,All award levels (total),121,87,34,80,80,22,41,29,12
+Space,14.0804,Transportation and Highway Engineering,Associate's degree,4,4,0,4,4,0,0,0,0
+Space,14.0804,Transportation and Highway Engineering,Bachelor's degree,9,9,0,9,9,0,0,0,0
+Space,14.0804,Transportation and Highway Engineering,Master's degree,97,67,30,64,64,22,33,25,8
+Space,14.0804,Transportation and Highway Engineering,Doctor's degree – research/scholarship,11,7,4,3,3,0,8,4,4
+Space,14.2201,Naval Architecture and Marine Engineering,All award levels (total),506,437,69,489,489,65,17,13,4
+Space,14.2201,Naval Architecture and Marine Engineering,Postsecondary certificate < 60 semester credit hours,6,6,0,6,6,0,0,0,0
+Space,14.2201,Naval Architecture and Marine Engineering,Bachelor's degree,453,392,61,446,446,59,7,5,2
+Space,14.2201,Naval Architecture and Marine Engineering,Master's degree,35,29,6,28,28,4,7,5,2
+Space,14.2201,Naval Architecture and Marine Engineering,Doctor's degree – research/scholarship,7,6,1,4,4,1,3,3,0
+Space,14.2201,Naval Architecture and Marine Engineering,Postbaccalaureate certificate,5,4,1,5,5,1,0,0,0
+Space,14.2401,Ocean Engineering,All award levels (total),305,225,80,248,248,68,57,45,12
+Space,14.2401,Ocean Engineering,Bachelor's degree,194,138,56,187,187,53,7,4,3
+Space,14.2401,Ocean Engineering,Master's degree,70,53,17,42,42,12,28,23,5
+Space,14.2401,Ocean Engineering,Doctor's degree – research/scholarship,16,13,3,4,4,1,12,10,2
+Space,14.2401,Ocean Engineering,Postbaccalaureate certificate,10,8,2,2,2,0,8,6,2
+Space,14.2401,Ocean Engineering,Post-master's certificate,15,13,2,13,13,2,2,2,0
+Space,40.0201,Astronomy,All award levels (total),611,393,218,538,538,190,73,45,28
+Space,40.0201,Astronomy,Postsecondary certificate < 60 semester credit hours,2,2,0,2,2,0,0,0,0
+Space,40.0201,Astronomy,Associate's degree,12,7,5,12,12,5,0,0,0
+Space,40.0201,Astronomy,Bachelor's degree,381,247,134,354,354,122,27,15,12
+Space,40.0201,Astronomy,Master's degree,90,63,27,69,69,22,21,16,5
+Space,40.0201,Astronomy,Doctor's degree – research/scholarship,120,71,49,96,96,38,24,13,11
+Space,40.0201,Astronomy,Post-master's certificate,6,3,3,5,5,3,1,1,0
+Space,40.0202,Astrophysics,All award levels (total),325,216,109,281,281,97,44,32,12
+Space,40.0202,Astrophysics,Bachelor's degree,238,154,84,219,219,78,19,13,6
+Space,40.0202,Astrophysics,Master's degree,27,19,8,19,19,5,8,5,3
+Space,40.0202,Astrophysics,Doctor's degree – research/scholarship,60,43,17,43,43,14,17,14,3
+Space,40.0601,"Geology/Earth Science, General",All award levels (total),7868,4746,3122,7329,7329,2908,539,325,214
+Space,40.0601,"Geology/Earth Science, General",Postsecondary certificate < 60 semester credit hours,2,2,0,2,2,0,0,0,0
+Space,40.0601,"Geology/Earth Science, General",Associate's degree,118,66,52,117,117,52,1,1,0
+Space,40.0601,"Geology/Earth Science, General",Bachelor's degree,5922,3642,2280,5678,5678,2176,244,140,104
+Space,40.0601,"Geology/Earth Science, General",Master's degree,1314,753,561,1165,1165,501,149,89,60
+Space,40.0601,"Geology/Earth Science, General",Doctor's degree – research/scholarship,464,258,206,328,328,159,136,89,47
+Space,40.0601,"Geology/Earth Science, General",Postbaccalaureate certificate,25,9,16,23,23,15,2,1,1
+Space,40.0601,"Geology/Earth Science, General",Post-master's certificate,23,16,7,16,16,5,7,5,2
+Space,40.0603,Geophysics and Seismology,All award levels (total),354,211,143,249,249,95,105,57,48
+Space,40.0603,Geophysics and Seismology,Bachelor's degree,182,111,71,156,156,60,26,15,11
+Space,40.0603,Geophysics and Seismology,Master's degree,99,60,39,56,56,21,43,25,18
+Space,40.0603,Geophysics and Seismology,Doctor's degree – research/scholarship,70,38,32,34,34,13,36,17,19
+Space,40.0603,Geophysics and Seismology,Post-master's certificate,3,2,1,3,3,1,0,0,0
+Space,40.0802,Atomic/Molecular Physics,All award levels (total),21,14,7,19,19,7,2,2,0
+Space,40.0802,Atomic/Molecular Physics,Bachelor's degree,2,0,2,2,2,2,0,0,0
+Space,40.0802,Atomic/Molecular Physics,Master's degree,11,7,4,10,10,4,1,1,0
+Space,40.0802,Atomic/Molecular Physics,Doctor's degree – research/scholarship,8,7,1,7,7,1,1,1,0
+Sustainable Energy Technology,3.0101,"Natural Resources/Conservation, General",All award levels (total),2504,1243,1261,2361,2361,1185,143,67,76
+Sustainable Energy Technology,3.0101,"Natural Resources/Conservation, General",Postsecondary certificate < 60 semester credit hours,80,57,23,80,80,23,0,0,0
+Sustainable Energy Technology,3.0101,"Natural Resources/Conservation, General",Postsecondary certificate > 60 semester credit hours,1,1,0,1,1,0,0,0,0
+Sustainable Energy Technology,3.0101,"Natural Resources/Conservation, General",Associate's degree,320,216,104,320,320,104,0,0,0
+Sustainable Energy Technology,3.0101,"Natural Resources/Conservation, General",Bachelor's degree,1402,671,731,1378,1378,719,24,12,12
+Sustainable Energy Technology,3.0101,"Natural Resources/Conservation, General",Master's degree,582,238,344,494,494,291,88,35,53
+Sustainable Energy Technology,3.0101,"Natural Resources/Conservation, General",Doctor's degree – research/scholarship,100,51,49,69,69,38,31,20,11
+Sustainable Energy Technology,3.0101,"Natural Resources/Conservation, General",Postbaccalaureate certificate,19,9,10,19,19,10,0,0,0
+Sustainable Energy Technology,3.0104,Environmental Science,All award levels (total),8345,3890,4455,7975,7975,4260,370,175,195
+Sustainable Energy Technology,3.0104,Environmental Science,Postsecondary certificate < 60 semester credit hours,16,8,8,16,16,8,0,0,0
+Sustainable Energy Technology,3.0104,Environmental Science,Postsecondary certificate > 60 semester credit hours,3,3,0,3,3,0,0,0,0
+Sustainable Energy Technology,3.0104,Environmental Science,Associate's degree,281,137,144,275,275,141,6,3,3
+Sustainable Energy Technology,3.0104,Environmental Science,Bachelor's degree,6943,3257,3686,6723,6723,3569,220,103,117
+Sustainable Energy Technology,3.0104,Environmental Science,Master's degree,908,382,526,797,797,467,111,52,59
+Sustainable Energy Technology,3.0104,Environmental Science,Doctor's degree – research/scholarship,179,95,84,146,146,68,33,17,16
+Sustainable Energy Technology,3.0104,Environmental Science,Postbaccalaureate certificate,15,8,7,15,15,7,0,0,0
+Sustainable Energy Technology,3.0201,"Environmental/Natural Resources Management and Policy, General",All award levels (total),1357,683,674,1288,1288,630,69,25,44
+Sustainable Energy Technology,3.0201,"Environmental/Natural Resources Management and Policy, General",Postsecondary certificate < 60 semester credit hours,10,9,1,10,10,1,0,0,0
+Sustainable Energy Technology,3.0201,"Environmental/Natural Resources Management and Policy, General",Associate's degree,42,32,10,42,42,10,0,0,0
+Sustainable Energy Technology,3.0201,"Environmental/Natural Resources Management and Policy, General",Bachelor's degree,706,404,302,701,701,298,5,1,4
+Sustainable Energy Technology,3.0201,"Environmental/Natural Resources Management and Policy, General",Master's degree,504,195,309,451,451,273,53,17,36
+Sustainable Energy Technology,3.0201,"Environmental/Natural Resources Management and Policy, General",Doctor's degree – research/scholarship,25,11,14,18,18,12,7,5,2
+Sustainable Energy Technology,3.0201,"Environmental/Natural Resources Management and Policy, General",Postbaccalaureate certificate,69,31,38,66,66,36,3,1,2
+Sustainable Energy Technology,3.0201,"Environmental/Natural Resources Management and Policy, General",Post-master's certificate,1,1,0,0,0,0,1,1,0
+Sustainable Energy Technology,3.0205,"Water, Wetlands, and Marine Resources Management",All award levels (total),309,138,171,290,290,159,19,7,12
+Sustainable Energy Technology,3.0205,"Water, Wetlands, and Marine Resources Management",Postsecondary certificate < 60 semester credit hours,19,17,2,19,19,2,0,0,0
+Sustainable Energy Technology,3.0205,"Water, Wetlands, and Marine Resources Management",Associate's degree,14,9,5,14,14,5,0,0,0
+Sustainable Energy Technology,3.0205,"Water, Wetlands, and Marine Resources Management",Bachelor's degree,78,40,38,76,76,37,2,1,1
+Sustainable Energy Technology,3.0205,"Water, Wetlands, and Marine Resources Management",Master's degree,171,61,110,158,158,102,13,5,8
+Sustainable Energy Technology,3.0205,"Water, Wetlands, and Marine Resources Management",Doctor's degree – research/scholarship,1,1,0,1,1,0,0,0,0
+Sustainable Energy Technology,3.0205,"Water, Wetlands, and Marine Resources Management",Postbaccalaureate certificate,26,10,16,22,22,13,4,1,3
+Sustainable Energy Technology,3.0206,Land Use Planning and Management/Development,All award levels (total),117,77,40,112,112,36,5,1,4
+Sustainable Energy Technology,3.0206,Land Use Planning and Management/Development,Bachelor's degree,68,54,14,68,68,14,0,0,0
+Sustainable Energy Technology,3.0206,Land Use Planning and Management/Development,Master's degree,44,20,24,39,39,20,5,1,4
+Sustainable Energy Technology,3.0206,Land Use Planning and Management/Development,Doctor's degree – research/scholarship,1,1,0,1,1,0,0,0,0
+Sustainable Energy Technology,3.0206,Land Use Planning and Management/Development,Postbaccalaureate certificate,4,2,2,4,4,2,0,0,0
+Sustainable Energy Technology,14.0805,Water Resources Engineering,All award levels (total),89,50,39,79,79,36,10,7,3
+Sustainable Energy Technology,14.0805,Water Resources Engineering,Associate's degree,3,2,1,3,3,1,0,0,0
+Sustainable Energy Technology,14.0805,Water Resources Engineering,Bachelor's degree,16,10,6,15,15,5,1,0,1
+Sustainable Energy Technology,14.0805,Water Resources Engineering,Master's degree,56,32,24,50,50,23,6,5,1
+Sustainable Energy Technology,14.0805,Water Resources Engineering,Doctor's degree – research/scholarship,6,1,5,5,5,4,1,0,1
+Sustainable Energy Technology,14.0805,Water Resources Engineering,Postbaccalaureate certificate,8,5,3,6,6,3,2,2,0
+Sustainable Energy Technology,14.1401,Environmental/Environmental Health Engineering,All award levels (total),2743,1440,1303,2107,2107,1005,636,338,298
+Sustainable Energy Technology,14.1401,Environmental/Environmental Health Engineering,Bachelor's degree,1611,837,774,1483,1483,721,128,75,53
+Sustainable Energy Technology,14.1401,Environmental/Environmental Health Engineering,Master's degree,950,506,444,537,537,238,413,207,206
+Sustainable Energy Technology,14.1401,Environmental/Environmental Health Engineering,Doctor's degree – research/scholarship,165,85,80,82,82,44,83,47,36
+Sustainable Energy Technology,14.1401,Environmental/Environmental Health Engineering,Postbaccalaureate certificate,11,8,3,5,5,2,6,5,1
+Sustainable Energy Technology,14.1401,Environmental/Environmental Health Engineering,Post-master's certificate,6,4,2,0,0,0,6,4,2
+Sustainable Energy Technology,15.0503,nan,All award levels (total),911,819,92,863,863,88,48,44,4
+Sustainable Energy Technology,15.0503,nan,Postsecondary certificate < 60 semester credit hours,193,179,14,193,193,14,0,0,0
+Sustainable Energy Technology,15.0503,nan,Associate's degree,493,451,42,490,490,42,3,3,0
+Sustainable Energy Technology,15.0503,nan,Bachelor's degree,123,102,21,114,114,19,9,7,2
+Sustainable Energy Technology,15.0503,nan,Master's degree,102,87,15,66,66,13,36,34,2
+Sustainable Energy Technology,15.0505,nan,All award levels (total),118,104,14,105,105,9,13,8,5
+Sustainable Energy Technology,15.0505,nan,Postsecondary certificate < 60 semester credit hours,29,26,3,29,29,3,0,0,0
+Sustainable Energy Technology,15.0505,nan,Associate's degree,68,62,6,66,66,6,2,2,0
+Sustainable Energy Technology,15.0505,nan,Master's degree,15,11,4,5,5,0,10,6,4
+Sustainable Energy Technology,15.0505,nan,Postbaccalaureate certificate,6,5,1,5,5,0,1,0,1
+Sustainable Energy Technology,15.0507,Environmental/Environmental Engineering Technology/Technician,All award levels (total),420,275,145,391,391,129,29,13,16
+Sustainable Energy Technology,15.0507,Environmental/Environmental Engineering Technology/Technician,Postsecondary certificate < 60 semester credit hours,12,9,3,12,12,3,0,0,0
+Sustainable Energy Technology,15.0507,Environmental/Environmental Engineering Technology/Technician,Associate's degree,171,126,45,171,171,45,0,0,0
+Sustainable Energy Technology,15.0507,Environmental/Environmental Engineering Technology/Technician,Bachelor's degree,154,99,55,149,149,52,5,2,3
+Sustainable Energy Technology,15.0507,Environmental/Environmental Engineering Technology/Technician,Master's degree,83,41,42,59,59,29,24,11,13

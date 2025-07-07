@@ -1,0 +1,35 @@
+varnumber,varname,DataType,Fieldwidth,format,imputationvar,varTitle
+1,UNITID,N,6,Cont,,Unique identification number of the institution
+35000,CIPCODE,A,7,Disc,,CIP Code -  2020 Classification
+31005,MAJORNUM,N,1,Disc,,First or Second Major
+35005,AWLEVEL,N,2,Disc,,Award Level code
+31130,CTOTALT,N,6,Cont,XCTOTALT,Grand total
+31085,CTOTALM,N,6,Cont,XCTOTALM,Grand total men
+31090,CTOTALW,N,6,Cont,XCTOTALW,Grand total women
+31580,CAIANT,N,6,Cont,XCAIANT,American Indian or Alaska Native total
+31515,CAIANM,N,6,Cont,XCAIANM,American Indian or Alaska Native men
+31520,CAIANW,N,6,Cont,XCAIANW,American Indian or Alaska Native women
+31585,CASIAT,N,6,Cont,XCASIAT,Asian total
+31525,CASIAM,N,6,Cont,XCASIAM,Asian men
+31530,CASIAW,N,6,Cont,XCASIAW,Asian women
+31590,CBKAAT,N,6,Cont,XCBKAAT,Black or African American total
+31535,CBKAAM,N,6,Cont,XCBKAAM,Black or African American men
+31540,CBKAAW,N,6,Cont,XCBKAAW,Black or African American women
+31575,CHISPT,N,6,Cont,XCHISPT,Hispanic or Latino total
+31505,CHISPM,N,6,Cont,XCHISPM,Hispanic or Latino men
+31510,CHISPW,N,6,Cont,XCHISPW,Hispanic or Latino women
+31595,CNHPIT,N,6,Cont,XCNHPIT,Native Hawaiian or Other Pacific Islander total
+31545,CNHPIM,N,6,Cont,XCNHPIM,Native Hawaiian or Other Pacific Islander men
+31550,CNHPIW,N,6,Cont,XCNHPIW,Native Hawaiian or Other Pacific Islander women
+31600,CWHITT,N,6,Cont,XCWHITT,White total
+31555,CWHITM,N,6,Cont,XCWHITM,White men
+31560,CWHITW,N,6,Cont,XCWHITW,White women
+31605,C2MORT,N,6,Cont,XC2MORT,Two or more races total
+31565,C2MORM,N,6,Cont,XC2MORM,Two or more races men
+31570,C2MORW,N,6,Cont,XC2MORW,Two or more races women
+31125,CUNKNT,N,6,Cont,XCUNKNT,Race/ethnicity unknown total
+31075,CUNKNM,N,6,Cont,XCUNKNM,Race/ethnicity unknown men
+31080,CUNKNW,N,6,Cont,XCUNKNW,Race/ethnicity unknown women
+31095,CNRALT,N,6,Cont,XCNRALT,U.S. Nonresident total
+31015,CNRALM,N,6,Cont,XCNRALM,U.S. Nonresident men
+31020,CNRALW,N,6,Cont,XCNRALW,U.S. Nonresident women

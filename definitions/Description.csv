@@ -1,0 +1,107 @@
+varnumber,varname,longDescription
+1,UNITID,Unique identification number of the institution
+35000,CIPCODE,"Classification of instrucional Program (CIP) code. A six-digit code in the form xx.xxxx that identifies instructional  program specialties within educational institutions.    
+
+The Classification of Instructional Programs (CIP) provides a taxonomic scheme that supports the accurate tracking and reporting of fields of study and program completions activity. CIP was originally developed by the U.S. Department of Education's National Center for Education Statistics (NCES) in 1980, with revisions occurring in 1985, 1990, 2000, 2010 and 2020.
+
+Information on the CIP classification taxonomy, including a crosswalk between CIP 2010 and 2020 is available at https://nces.ed.gov/ipeds/cipcode/resources.aspx?y=56"
+31005,MAJORNUM,First or Second Major
+35005,AWLEVEL,"Award level code
+
+The twelve award levels under which completions can be reported are:
+
+Certificates of less than 12 weeks includes programs of less than 300 clock hours, or, Less than 9 SEMESTER or TRIMESTER credit hours, or Less than 13 QUARTER credit hours
+Certificates of at least 12 weeks but less than 1 year includes programs of 300-899 clock hours, or 9-29 SEMESTER or TRIMESTER credit hours, or 13-44 QUARTER credit hours
+Certificates of at least 1 year but less the 2 years includes programs of at least 900, but less than 1800 clock hours, or at least 30, but less than 60 SEMESTER OR TRIMESTER HOURS, or at least 45, but less than 90 QUARTER HOURS
+Associate's degree
+Certificates of at least 2 years but less the 4 years includes programs of 1800 or more clock hours, or 60 or more SEMESTER OR TRIMESTER credit hours, or 90 or more QUARTER credit hours
+Bachelor's degree
+Postbaccalaureate certificate
+Master's degree
+Post-master's certificate
+Doctor's degree - research/scholarship
+Doctor's degree - professional practice
+Doctor's degree - other"
+31130,CTOTALT,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to all recipients, across all race/ethnicities and both genders"
+31085,CTOTALM,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Grand total Men"
+31090,CTOTALW,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Grand total Men"
+31580,CAIANT,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to American Indian or Alaska Native men and women.
+
+American Indian or Alaska Native - A person having origins in any of the original peoples of North and South America (including Central America) who maintains cultural identification through tribal affiliation or community attachment."
+31515,CAIANM,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to American Indian or Alaska Native men.
+
+American Indian or Alaska Native - A person having origins in any of the original peoples of North and South America (including Central America) who maintains cultural identification through tribal affiliation or community attachment."
+31520,CAIANW,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to American Indian or Alaska Native women.
+
+American Indian or Alaska Native - A person having origins in any of the original peoples of North and South America (including Central America) who maintains cultural identification through tribal affiliation or community attachment."
+31585,CASIAT,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Asian men and women.
+
+Asian - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam."
+31525,CASIAM,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Asian men.
+
+Asian - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam."
+31530,CASIAW,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Asian women.
+
+Asian - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam."
+31590,CBKAAT,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Black or African American men and women.
+
+Black or African American - A person having origins in any of the black racial groups of Africa"
+31535,CBKAAM,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Black or African American men.
+
+Black or African American - A person having origins in any of the black racial groups of Africa"
+31540,CBKAAW,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Black or African American women.
+
+Black or African American - A person having origins in any of the black racial groups of Africa"
+31575,CHISPT,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Hispanic or Latino men and women.
+
+Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race."
+31505,CHISPM,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Hispanic or Latino men.
+
+Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race."
+31510,CHISPW,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Hispanic or Latino women.
+
+Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race."
+31595,CNHPIT,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Native Hawaiian or Other Pacific Islanders men and women.
+
+Native Hawaiian or Other Pacific Islanders - A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands."
+31545,CNHPIM,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Native Hawaiian or Other Pacific Islanders men.
+
+Native Hawaiian or Other Pacific Islanders - A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands."
+31550,CNHPIW,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Native Hawaiian or Other Pacific Islanders women.
+
+Native Hawaiian or Other Pacific Islanders - A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands."
+31600,CWHITT,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to White men and women.
+
+White - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa."
+31555,CWHITM,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to White men.
+
+White - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa."
+31560,CWHITW,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to White women.
+
+White - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa."
+31605,C2MORT,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to two or more races men and women.
+
+Two or more races - Category used by institutions to report persons who selected more than one race."
+31565,C2MORM,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to two or more races men.
+
+Two or more races - Category used by institutions to report persons who selected more than one race."
+31570,C2MORW,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to two or more races women.
+
+Two or more races - Category used by institutions to report persons who selected more than one race."
+31125,CUNKNT,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to race/ethnicity unknown men and women.                                                           
+Race/ethnicity unknown - Category used to classify students or employees whose race/ethnicity is not known, and institutions are unable to place them in one of the specified racial/ethnic categories."
+31075,CUNKNM,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Race/ethnicity unknown men                                               
+
+Race/ethnicity unknown - Category used to classify students or employees whose race/ethnicity is not known and institutions are unable to place them in one of the specified racial/ethnic categories."
+31080,CUNKNW,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to Race/ethnicity unknown women                                               
+
+Race/ethnicity unknown - Category used to classify students or employees whose race/ethnicity is not known and institutions are unable to place them in one of the specified racial/ethnic categories."
+31095,CNRALT,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to U.S. Nonresident men and women.
+
+U.S. Nonresident  - A person who is not a citizen or national of the United States and who is in this country on a visa or temporary basis and does not have the right to remain indefinitely."
+31015,CNRALM,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to U.S. Nonresident men.
+
+U.S. Nonresident - A person who is not a citizen or national of the United States and who is in this country on a visa or temporary basis and does not have the right to remain indefinitely."
+31020,CNRALW,"Awards/degrees conferred between July 1, 2022 and June 30, 2023 to U.S. Nonresident women.
+
+U.S. Nonresident - A person who is not a citizen or national of the United States and who is in this country on a visa or temporary basis and does not have the right to remain indefinitely."
