@@ -128,7 +128,7 @@ for field in setr_fields:
     valid_data = [(year, data) for year, data in zip(years, yearly_data) if data is not None]
     
     if len(valid_data) < 2:
-        print(f"⚠️ Not enough data for {field}")
+        print(f"Not enough data for {field}")
         continue
     
     # Create smooth animation frames
@@ -140,7 +140,7 @@ for field in setr_fields:
         all_images.append(img)
         
         # Hold the frame
-        for _ in range(8):
+        for _ in range(5):
             all_images.append(img)
         
         # Add interpolated frames to next year (except for last year)
@@ -148,7 +148,7 @@ for field in setr_fields:
             next_year, next_data = valid_data[i + 1]
             
             # Create interpolated data
-            interpolated_data_list = interpolate_data(data, next_data, num_frames=25)
+            interpolated_data_list = interpolate_data(data, next_data, num_frames=40)
             
             # Create images for interpolated data
             for j, interp_data in enumerate(interpolated_data_list[1:]):  # Skip first to avoid duplication
@@ -187,8 +187,8 @@ for field in setr_fields:
                 resized_images.append(img)
         
         imageio.mimsave(output_path, resized_images, fps=10, loop=0)
-        print(f"✅ GIF created: {output_path}")
+        print(f"GIF created: {output_path}")
     else:
-        print(f"⚠️ No images created for {field}")
+        print(f"No images created for {field}")
 
 print("All animations created!")
