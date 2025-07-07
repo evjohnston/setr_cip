@@ -270,6 +270,11 @@ growth['CAGR'] = (growth['End Grads'] / growth['Start Grads']) ** (1 / growth['Y
 growth = growth.sort_values('CAGR', ascending=False)
 print(growth[['CAGR']].head(10))
 
+# %% 1. International Dependency Ratio by Field and Degree
+summary_df['Dependency Ratio'] = summary_df['US Nonresident Graduates'] / summary_df['Total Graduates']
+pivot = summary_df.pivot_table(index='Year', columns='SETR Category', values='Dependency Ratio')
+pivot.plot(title="Dependency on Nonresident Students by Field", figsize=(14, 6))
+
 # %%
 # Bachelor's → Master's → Doctorate in Biotechnology
 eng_df = summary_df[summary_df['SETR Category'] == 'Biotechnology and Synthetic Biology']
@@ -279,5 +284,135 @@ pipeline = eng_df.pivot_table(
     values='Total Graduates'
 )[["Bachelor's degree", "Master's degree", "Doctor's degree – research/scholarship"]]
 pipeline.plot(title="Biotechnology Degree Pipeline Over Time", figsize=(14, 6))
+
+# %% 3. Residency Distribution by Degree Level
+dist = summary_df.groupby('Award level', observed=False)[['US Graduates', 'US Nonresident Graduates']].sum()
+dist_percent = dist.div(dist.sum(axis=1), axis=0)
+dist_percent.plot(kind='barh', stacked=True, title="Residency Distribution by Award Level", figsize=(10, 6))
+
+
+# %% 8. Strategic Fields Heatmap of Nonresident Share
+import seaborn as sns
+heat_df = summary_df[
+    summary_df['Award level'] == "Doctor's degree – research/scholarship"
+].pivot(index='Year', columns='SETR Category', values='Dependency Ratio')
+plt.figure(figsize=(14, 6))
+sns.heatmap(heat_df, cmap='Reds', annot=False)
+plt.title("Nonresident Share of Doctorate Graduates by Field (Heatmap)")
+
+# %% 10. Pipeline Attrition Visualization
+# Bachelor's vs Master's in strategic field
+field = 'Artificial Intelligence'
+bachelors = summary_df[
+    (summary_df['SETR Category'] == field) & 
+    (summary_df['Award level'] == "Bachelor's degree")
+][['Year', 'Total Graduates']].rename(columns={'Total Graduates': 'Bachelors'}).copy()
+
+masters = summary_df[
+    (summary_df['SETR Category'] == field) & 
+    (summary_df['Award level'] == "Master's degree")
+][['Year', 'Total Graduates']].rename(columns={'Total Graduates': 'Masters'}).copy()
+
+masters['Year'] -= 2  # lagged transition assumption
+merged = pd.merge(bachelors, masters, on='Year')
+merged.plot(x='Year', y=['Bachelors', 'Masters'], marker='o', figsize=(12, 6), title=f"{field} – Bachelors vs Lagged Masters")
+
+# %% Residency Distribution by Degree Level — Only Bachelor's, Master's, Doctorate (combined)
+import pandas as pd
+import matplotlib.pyplot as plt
+import os
+
+# summary_df = pd.read_csv("SETR_summary_by_year.csv")  # your existing DataFrame
+
+# Fields to process
+setr_fields = [
+    "Artificial Intelligence",
+    "Biotechnology and Synthetic Biology",
+    "Cryptography",
+    "Lasers",
+    "Materials Science",
+    "Neuroscience",
+    "Robotics",
+    "Semiconductors",
+    "Space",
+    "Sustainable Energy Technology"
+]
+
+# Filter years
+years = sorted(summary_df['Year'].unique())
+
+# Output directory
+output_dir = "SETR_residency_distribution_bmd_only"
+os.makedirs(output_dir, exist_ok=True)
+
+# Doctoral labels to combine
+doctorate_levels = [
+    "Doctor's degree – research/scholarship",
+    "Doctor's degree – professional practice",
+    "Doctor's degree – other"
+]
+
+# Process each category and year
+for field in setr_fields:
+    field_df = summary_df[summary_df['SETR Category'] == field]
+
+    for year in years:
+        year_df = field_df[field_df['Year'] == year].copy()
+
+        # Keep only Bachelors, Masters, Doctorate levels
+        bmd_df = year_df[year_df['Award level'].isin(
+            ["Bachelor's degree", "Master's degree"] + doctorate_levels
+        )].copy()
+
+        # Combine all doctorate rows under "Doctorate degree"
+        bmd_df['Award level'] = bmd_df['Award level'].replace(
+            doctorate_levels, "Doctorate degree"
+        )
+
+        # Group by new simplified award levels
+        dist = bmd_df.groupby('Award level', observed=False)[['US Graduates', 'US Nonresident Graduates']].sum()
+
+        if dist.empty:
+            print(f"Skipping {field} – {year} (no data)")
+            continue
+
+        # Convert to percentage
+        dist_percent = dist.div(dist.sum(axis=1), axis=0)
+
+        # Order degree levels
+        level_order = ["Bachelor's degree", "Master's degree", "Doctorate degree"]
+        dist_percent = dist_percent.reindex(level_order)
+
+        # Output filename
+        safe_field = field.replace(" ", "_").replace("/", "_")
+        filename = f"{safe_field}_{year}_residency_distribution_bmd.png"
+        filepath = os.path.join(output_dir, filename)
+
+        # Plot
+        fig, ax = plt.subplots(figsize=(10, 5))
+
+        dist_percent.plot(
+            kind='barh',
+            stacked=True,
+            ax=ax,
+            color=['#0A3161', '#cd071e']
+        )
+
+        ax.set_xlim(0, 1)
+        ax.set_title(f"{field} – Bachelor's, Master's, Doctorate Residency Distribution ({year})")
+        ax.set_xlabel("Proportion of Graduates")
+
+        ax.legend(
+            loc='center left',
+            bbox_to_anchor=(1.0, 0.5),
+            frameon=False,
+            title='Residency Status'
+        )
+
+        fig.subplots_adjust(left=0.3, right=0.75)
+        plt.savefig(filepath, dpi=300, bbox_inches='tight')
+        plt.close()
+
+        print(f"✅ Saved: {filename}")
 
 # %%
