@@ -117,6 +117,7 @@ for category in setr_categories:
 
 
 # %%
+import os
 import matplotlib.pyplot as plt
 import seaborn as sns
 import math
@@ -155,10 +156,10 @@ for category in setr_categories:
     award_levels = [lvl for lvl in award_level_order if lvl in cat_df['Award level'].unique()]
     num_levels = len(award_levels)
 
-    # Setup subplots
+    # Setup subplots without shared x-axis
     cols = 2  # 2 plots per row
     rows = math.ceil(num_levels / cols)
-    fig, axes = plt.subplots(rows, cols, figsize=(14, 4 * rows), sharex=True)
+    fig, axes = plt.subplots(rows, cols, figsize=(14, 4 * rows))  # removed sharex=True
     axes = axes.flatten()
 
     for i, level in enumerate(award_levels):
@@ -173,6 +174,10 @@ for category in setr_categories:
         ax.set_ylabel("Graduates")
         ax.legend()
         ax.grid(True)
+
+        # Set x-axis ticks and labels on all subplots
+        ax.set_xticks(level_df['Year'])
+        ax.set_xticklabels(level_df['Year'], rotation=45)
 
     # Remove unused subplots
     for j in range(i + 1, len(axes)):
