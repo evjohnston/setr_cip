@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 from bs4 import BeautifulSoup
-from IPEDS_cleaning_bySETR import setr_cip_map
+from IPEDS_utilities import setr_cip_map
 
 YEARS = range(2014, 2024)
 DEGREE_LEVELS = {
