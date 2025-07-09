@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-YEAR = 2023  # Change this to any year you want to process
+YEAR = 2023  # Change this to any year you want to process.
 
 # File paths
 metadata_folder = "definitions"
