@@ -75,6 +75,7 @@ for category in setr_categories:
     plt.tight_layout()
     plt.savefig(os.path.join(output_plot_folder, f"{category.replace('/', '_').replace(' ', '_')}_trend.png"), dpi=300)
     plt.close()
+    print("Plot created, no errors")
 
 # === 4. Faceted Plot – U.S. vs Nonresident Graduates by Award Level ===
 faceted_plot_folder = 'IPEDS/IPEDS_visualizations/IPEDS_visuals_plotFaceted'
@@ -120,13 +121,15 @@ for category in setr_categories:
     plt.tight_layout(rect=[0, 0, 1, 0.97])
     plt.savefig(os.path.join(faceted_plot_folder, f"{category.replace('/', '_').replace(' ', '_')}_us_vs_nonres.png"), dpi=300)
     plt.close()
+    print("Plot created, no errors")
 
 # === 5. Line Chart – International Talent Dependency by Field ===
 summary_df['Dependency Index'] = summary_df['US Nonresident Graduates'] / summary_df['Total Graduates']
 dependency = summary_df.groupby(['Year', 'SETR Category'])['Dependency Index'].mean().unstack()
 dependency.plot(title="International Talent Dependency by Field", figsize=(14, 6))
 plt.tight_layout()
-plt.show()
+plt.savefig('IPEDS/IPEDS_visualizations/international_dependency_trend.png', dpi=300)
+plt.close()
 
 # === 6. Line Chart – Award Level Transition Flow (Lagged) ===
 target_categories = [
@@ -163,36 +166,69 @@ for category in target_categories:
     plt.tight_layout()
     plt.savefig(os.path.join(lag_plot_folder, f"{category.replace('/', '_').replace(' ', '_')}_transition_flow.png"), dpi=300)
     plt.close()
+    print("Plot created, no errors")
 
 # === 7. Bar Plot – Top 10 Fields by CAGR ===
-growth = summary_df.groupby(['SETR Category', 'Award level'])[['Year', 'Total Graduates']].agg(['min', 'max'])
+growth = summary_df.groupby(['SETR Category', 'Award level'], observed=False)[['Year', 'Total Graduates']].agg(['min', 'max'])
 growth.columns = ['Start Year', 'End Year', 'Start Grads', 'End Grads']
 growth['Years'] = growth['End Year'] - growth['Start Year']
 growth['CAGR'] = (growth['End Grads'] / growth['Start Grads']) ** (1 / growth['Years']) - 1
-print(growth[['CAGR']].sort_values('CAGR', ascending=False).head(10))
+
+top_growth = growth[['CAGR']].sort_values('CAGR', ascending=False).head(10).reset_index()
+top_growth['Label'] = top_growth['SETR Category'].astype(str) + ' – ' + top_growth['Award level'].astype(str)
+
+plt.figure(figsize=(10, 6))
+sns.barplot(x='CAGR', y='Label', data=top_growth, palette='viridis')
+plt.title('Top 10 Fields by Compound Annual Growth Rate (CAGR)')
+plt.xlabel('CAGR')
+plt.ylabel('')
+plt.tight_layout()
+
+cagr_plot_folder = 'IPEDS/IPEDS_visualizations/'
+os.makedirs(cagr_plot_folder, exist_ok=True)
+plt.savefig(os.path.join(cagr_plot_folder, 'top10_cagr_fields.png'), dpi=300)
+plt.close()
+print("Plot created, no errors")
 
 # === 8. Line Chart – International Dependency Ratio by Field ===
 summary_df['Dependency Ratio'] = summary_df['US Nonresident Graduates'] / summary_df['Total Graduates']
 pivot = summary_df.pivot_table(index='Year', columns='SETR Category', values='Dependency Ratio')
 pivot.plot(title="Dependency on Nonresident Students by Field", figsize=(14, 6))
 plt.tight_layout()
-plt.show()
+plt.savefig('IPEDS/IPEDS_visualizations/dependency_ratio_by_field.png', dpi=300)
+plt.close()
+print("Plot created, no errors")
 
-# === 9. Line Plot – Degree Pipeline in Biotechnology ===
-eng_df = summary_df[summary_df['SETR Category'] == 'Biotechnology and Synthetic Biology']
-pipeline = eng_df.pivot_table(index='Year', columns='Award level', values='Total Graduates')[
-    ["Bachelor's degree", "Master's degree", "Doctor's degree – research/scholarship"]
-]
-pipeline.plot(title="Biotechnology Degree Pipeline Over Time", figsize=(14, 6))
-plt.tight_layout()
-plt.show()
+# === 9. Line Plot – Degree Pipeline in All Fields ===
+pipeline_folder = 'IPEDS/IPEDS_visualizations/IPEDS_visuals_pipeline'
+os.makedirs(pipeline_folder, exist_ok=True)
+
+for category in setr_categories:
+    eng_df = summary_df[summary_df['SETR Category'] == category]
+    pipeline = eng_df.pivot_table(index='Year', columns='Award level', values='Total Graduates')
+
+    # Only plot if all three degree levels are present
+    required_levels = ["Bachelor's degree", "Master's degree", "Doctor's degree – research/scholarship"]
+    if not all(level in pipeline.columns for level in required_levels):
+        continue
+
+    subset = pipeline[required_levels]
+
+    subset.plot(title=f"{category} Degree Pipeline Over Time", figsize=(14, 6))
+    plt.tight_layout()
+    filename = f"{category.replace('/', '_').replace(' ', '_')}_pipeline.png"
+    plt.savefig(os.path.join(pipeline_folder, filename), dpi=300)
+    plt.close()
+    print("Plot created, no errors")
 
 # === 10. Horizontal Bar – Residency Distribution by Degree Level ===
 dist = summary_df.groupby('Award level', observed=False)[['US Graduates', 'US Nonresident Graduates']].sum()
 dist_percent = dist.div(dist.sum(axis=1), axis=0)
 dist_percent.plot(kind='barh', stacked=True, title="Residency Distribution by Award Level", figsize=(10, 6))
 plt.tight_layout()
-plt.show()
+plt.savefig('IPEDS/IPEDS_visualizations/residency_distribution_by_award.png', dpi=300)
+plt.close()
+print("Plot created, no errors")
 
 # === 11. Heatmap – Nonresident Share of Doctorate Graduates by Field ===
 heat_df = summary_df[
@@ -202,23 +238,36 @@ plt.figure(figsize=(14, 6))
 sns.heatmap(heat_df, cmap='Reds')
 plt.title("Nonresident Share of Doctorate Graduates by Field (Heatmap)")
 plt.tight_layout()
-plt.show()
+plt.savefig('IPEDS/IPEDS_visualizations/heatmap_nonresident_doctorates.png', dpi=300)
+plt.close()
+print("Plot created, no errors")
 
-# === 12. Line Chart – Pipeline Attrition Visualization for AI ===
-field = 'Artificial Intelligence'
-bachelors = summary_df[
-    (summary_df['SETR Category'] == field) & 
-    (summary_df['Award level'] == "Bachelor's degree")
-][['Year', 'Total Graduates']].rename(columns={'Total Graduates': 'Bachelors'}).copy()
+# === 12. Line Chart – Pipeline Attrition Visualization for All Fields ===
+attrition_folder = 'IPEDS/IPEDS_visualizations/IPEDS_visuals_pipeline_attrition'
+os.makedirs(attrition_folder, exist_ok=True)
 
-masters = summary_df[
-    (summary_df['SETR Category'] == field) & 
-    (summary_df['Award level'] == "Master's degree")
-][['Year', 'Total Graduates']].rename(columns={'Total Graduates': 'Masters'}).copy()
+for category in setr_categories:
+    bachelors = summary_df[
+        (summary_df['SETR Category'] == category) & 
+        (summary_df['Award level'] == "Bachelor's degree")
+    ][['Year', 'Total Graduates']].rename(columns={'Total Graduates': 'Bachelors'}).copy()
 
-masters['Year'] -= 2
-merged = pd.merge(bachelors, masters, on='Year')
-merged.plot(x='Year', y=['Bachelors', 'Masters'], marker='o', figsize=(12, 6),
-            title=f"{field} – Bachelors vs Lagged Masters")
-plt.tight_layout()
-plt.show()
+    masters = summary_df[
+        (summary_df['SETR Category'] == category) & 
+        (summary_df['Award level'] == "Master's degree")
+    ][['Year', 'Total Graduates']].rename(columns={'Total Graduates': 'Masters'}).copy()
+
+    # Shift master's data back by 2 years to align with bachelor's
+    masters['Year'] -= 2
+
+    merged = pd.merge(bachelors, masters, on='Year')
+    if merged.empty:
+        continue
+
+    merged.plot(x='Year', y=['Bachelors', 'Masters'], marker='o', figsize=(12, 6),
+                title=f"{category} – Bachelors vs Lagged Masters")
+    plt.tight_layout()
+    filename = f"{category.replace('/', '_').replace(' ', '_')}_pipeline_attrition.png"
+    plt.savefig(os.path.join(attrition_folder, filename), dpi=300)
+    plt.close()
+    print("Plot created, no errors")
