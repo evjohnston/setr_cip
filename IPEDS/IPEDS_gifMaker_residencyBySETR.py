@@ -26,7 +26,7 @@ def prepare_data_for_field(field, years):
     field_df = summary_df[summary_df['SETR Category'] == field]
     yearly_data = []
     for year in years:
-        year_df = field_df[summary_df['Year'] == year].copy()
+        year_df = field_df[field_df['Year'] == year].copy()
         bmd_df = year_df[year_df['Award level'].isin(["Bachelor's degree", "Master's degree"] + doctorate_levels)].copy()
         bmd_df['Award level'] = bmd_df['Award level'].replace(doctorate_levels, "Doctorate degree")
         dist = bmd_df.groupby('Award level', observed=False)[['US Graduates', 'US Nonresident Graduates']].sum()
@@ -61,6 +61,7 @@ def create_chart_image(data, field, year_text):
 years = sorted(summary_df['Year'].unique())
 
 for field in setr_fields:
+    print(f"🔄 Initializing GIF for: {field}")
     yearly_data = prepare_data_for_field(field, years)
     valid_data = [(year, data) for year, data in zip(years, yearly_data) if data is not None]
     if len(valid_data) < 2:
@@ -94,5 +95,6 @@ for field in setr_fields:
             else:
                 resized_images.append(img)
         imageio.mimsave(output_path, resized_images, fps=10, loop=0)
+        print(f"✅ GIF created for: {field}")
 
 print("All animations created.")
