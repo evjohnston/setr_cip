@@ -1,0 +1,96 @@
+Table 1-1 - Research doctorate recipients from U.S. colleges and universities: 1958–2023
+Table 1-2 - Research doctorate recipients, by trend broad field of doctorate and 2021 Carnegie Classification of doctorate institution: 2013–23
+Table 1-3 - Research doctorate recipients, by trend major field of doctorate: Selected years, 1993–2023
+Table 1-4 - Research doctorate recipients, by trend broad field of doctorate and sex: Selected years, 1993–2023
+Table 1-5 - Research doctorate recipients, by trend major field of doctorate and sex: 2013–23
+Table 1-6 - Research doctorate recipients, by trend broad field of doctorate and citizenship status: Selected years, 1978–2023
+Table 1-7 - Research doctorate recipients, by trend major field of doctorate and citizenship status: 2013–23
+Table 1-8 - Research doctorate recipients, by ethnicity, race, and citizenship status: 2013–23
+Table 1-9 - Male research doctorate recipients, by ethnicity, race, and citizenship status: 2013–23
+Table 1-10 - Female research doctorate recipients, by ethnicity, race, and citizenship status: 2013–23
+Table 1-11 - U.S. citizen and permanent resident research doctorate recipients, by trend broad field of doctorate, ethnicity, and race: Selected years, 1978–2023
+Table 1-12 - Median years to research doctorate, by trend broad field of doctorate: Selected years, 1973–2023
+Table 1-13 - Education-related debt of research doctorate recipients, by trend broad field of doctorate: 2013–23
+Table 1-14 - Highest educational attainment of either parent of research doctorate recipients: 1970–2023
+Table 2-1 - Postgraduation commitment of research doctorate recipients, by trend broad field of doctorate: Selected years, 1993–2023
+Table 2-2 - Postgraduation commitment of research doctorate recipients, by sex, citizenship status, ethnicity, and race: Selected years, 1993–2023
+Table 2-3 - Postgraduation plans of research doctorate recipients with definite commitments, by trend broad field of doctorate: Selected years, 1993–2023
+Table 2-4 - Postgraduation plans of research doctorate recipients with definite commitments, by sex, citizenship status, ethnicity, and race: Selected years, 1993–2023
+Table 2-5 - Sources of support for research doctorate recipients with postdoctoral training commitments, by sex, citizenship status, ethnicity, and race: Selected years, 1993–2023
+Table 2-6 - Employment sector of research doctorate recipients with definite postgraduation commitments for non-postdoc employment in the United States, by trend broad field of doctorate: Selected years, 1993–2023
+Table 2-7 - Employment sector of research doctorate recipients with definite postgraduation commitments for non-postdoc employment in the United States, by sex, citizenship status, ethnicity, and race: Selected years, 1993–2023
+Table 2-8 - Intention to stay in the U.S. after doctorate receipt among research doctorate recipients with temporary visas, by region and country or economy of citizenship: 2017–23
+Table 3-1 - Research doctorate recipients, by detailed field of doctorate: 2021–23
+Table 3-2 - Research doctorate recipients, by detailed field of doctorate and sex: 2023
+Table 3-3 - Research doctorate recipients, by detailed field of doctorate, citizenship status, ethnicity, and race: 2023
+Table 3-4 - U.S. citizen and permanent resident research doctorate recipients, by major field of doctorate, ethnicity, and race: 2023
+Table 3-5 - Median years to science and engineering research doctorate, by sex, citizenship status, ethnicity, race, and broad field of doctorate: 2023
+Table 3-6 - Median years to non-science and engineering research doctorate, by sex, citizenship status, ethnicity, race, and broad field of doctorate: 2023
+Table 3-7 - Median age and age distribution of research doctorate recipients, by broad field of doctorate, sex, citizenship status, ethnicity, and race: 2023
+Table 4-1 - Research doctorate recipients' primary source of financial support, by broad field of doctorate, sex, citizenship status, ethnicity, and race: 2023
+Table 4-2 - Research doctorate recipients' sources of financial support, by broad field of doctorate and sex: 2023
+Table 4-3 - Research doctorate recipients' sources of financial support, by sex and broad field of doctorate: 2023
+Table 4-4 - Education-related debt of research doctorate recipients, by broad field of doctorate: 2023
+Table 4-5 - Education-related debt of research doctorate recipients, by sex, citizenship status, ethnicity, and race: 2023
+Table 4-6 - U.S. citizen and permanent resident research doctorate recipients with graduate education-related debt, by ethnicity, race, and broad field of doctorate: 2023
+Table 5-1 - Research doctorate recipients who ever attended community college, by sex, citizenship status, ethnicity, race, and broad field of doctorate: 2023
+Table 5-2 - Research doctorate recipients who earned a bachelor's degree related to doctorate, by sex, citizenship status, ethnicity, race, and broad field of doctorate: 2023
+Table 5-3 - Research doctorate recipients who earned a master's degree related to doctorate, by sex, citizenship status, ethnicity, race, and broad field of doctorate: 2023
+Table 5-4 - Baccalaureate-origin institution characteristics of research doctorate recipients, by broad field of doctorate: 2023
+Table 5-5 - Educational attainment of research doctorate recipients' parents, by sex, citizenship status, ethnicity, race, and broad field of doctorate: 2023
+Table 5-6 - Research doctorate recipients reporting one or more functional limitations, by broad field of doctorate, sex, and citizenship status: 2023
+Table 6-1 - Research doctorate recipients with definite postgraduation commitments, by major field of doctorate: 2023
+Table 6-2 - U.S. citizen and permanent resident research doctorate recipients with definite postgraduation commitments, by major field of doctorate: 2023
+Table 6-3 - Temporary visa holder research doctorate recipients with definite postgraduation commitments, by major field of doctorate: 2023
+Table 6-4 - Female research doctorate recipients with definite postgraduation commitments, by major field of doctorate: 2023
+Table 6-5 - Male research doctorate recipients with definite postgraduation commitments, by major field of doctorate: 2023
+Table 6-6 - Median basic annual salary for research doctorate recipients with definite postgraduation plans in the United States, by broad field of doctorate, type of postgraduation plans, and sex: 2023
+Table 6-7 - Median basic annual salary for research doctorate recipients with definite postgraduation plans for non-postdoc employment in the United States, by broad field of doctorate and employment sector: 2023
+Table 7-1 - Doctorate-granting institutions and research doctorate recipients per institution: 1973–2023
+Table 7-2 - Top 50 doctorate-granting institutions ranked by total number of research doctorate recipients, by sex: 2023
+Table 7-3 - Top 20 doctorate-granting institutions ranked by total number of research doctorate recipients, by broad field of doctorate and sex: 2023
+Table 7-4 - Top 20 doctorate-granting institutions ranked by number of minority U.S. citizen and permanent resident research doctorate recipients, by ethnicity and race: 5-year total, 2019–23
+Table 7-5 - Top 20 doctorate-granting institutions, ranked by number of research doctorate recipients holding temporary visas: 2023
+Table 7-6 - State or location of doctorate institution ranked by total number of research doctorate recipients, by field of doctorate and sex: 2023
+Table 7-7 - Top 10 countries or economies of origin of temporary visa holders earning U.S. research doctorates, by country or economy of citizenship and field of doctorate: 2013–23
+Table 7-8 - Top 40 countries or economies of origin of temporary visa holders earning U.S. research doctorates, by number of doctorate recipients: 2023
+Table 7-9 - Top 20 baccalaureate-origin institutions ranked by 2021 Carnegie Classification category and total number of research doctorate recipients, by field of doctorate: 2023
+Table 7-10 - Research doctorate recipients, by state or location of doctorate institution and broad field of doctorate: 2023
+Table 8-1 - Science and engineering research doctorate recipients, statistical profile by sex and broad field of doctorate: 2023
+Table 8-2 - Non-science and engineering research doctorate recipients, statistical profile by sex and broad field of doctorate: 2023
+Table 8-3 - Agricultural sciences and natural resources research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-4 - Biological and biomedical sciences research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-5 - Computer and information science research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-6 - Engineering research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-7 - Geosciences, atmospheric, and ocean sciences research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-8 - Health sciences research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-9 - Mathematics and statistics research doctorate recipients, statistical profiles by sex and major field of doctorate: 2023
+Table 8-10 - Multidisciplinary/interdisciplinary sciences research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-11 - Physical sciences research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-12 - Psychology research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-13 - Social sciences research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-14 - Education research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-15 - Humanities research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-16 - Business research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-17 - Visual and performing arts research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-18 - Other non-science and engineering research doctorate recipients, statistical profile by sex and major field of doctorate: 2023
+Table 8-19 - Statistical profile of research doctorate recipients, by ethnicity, race, and citizenship status: 2023
+Table 9-1 - Science and engineering research doctorate recipients, postgraduation plans by sex and broad field of doctorate: 2023
+Table 9-2 - Non-science and engineering research doctorate recipients, postgraduation plans by sex and broad field of doctorate: 2023
+Table 9-3 - Agricultural sciences and natural resources research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-4 - Biological and biomedical sciences research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-5 - Computer and information sciences research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-6 - Engineering research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-7 - Geosciences, atmospheric, and ocean sciences research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-8 - Health sciences research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-9 - Mathematics and statistics research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-10 - Multidisciplinary/interdisciplinary sciences research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-11 - Physical sciences research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-12 - Psychology research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-13 - Social sciences research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-14 - Education research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-15 - Humanities research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-16 - Business research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-17 - Visual and performing arts research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-18 - Other non-science and engineering research doctorate recipients, postgraduation plans by sex and major field of doctorate: 2023
+Table 9-19 - Postgraduation plans of research doctorate recipients, by ethnicity, race, and citizenship status: 2023

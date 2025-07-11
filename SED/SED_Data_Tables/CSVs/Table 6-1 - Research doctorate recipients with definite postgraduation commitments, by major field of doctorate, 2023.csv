@@ -1,0 +1,93 @@
+Table 6-1,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+"Research doctorate recipients with definite postgraduation commitments, by major field of doctorate: 2023",,,,,,,,,
+(Number),,,,,,,,,
+Field of doctorate,All doctorate recipients,Doctorate recipients with definite commitments,Location of definite commitments,,,,,,
+,,,United States,,,,,Abroad,Unknown
+,,,Total,Postdoctoral study,Academic employment,Industry employmenta,Otherb,,
+All fields,57862,38328,35280,12818,7672,10495,4295,3022,26
+Science and engineering,45973,30767,28391,11811,4074,9838,2668,2360,16
+Agricultural sciences and natural resources,1278,828,771,341,135,187,108,57,0
+"Agricultural, animal, plant, and veterinary sciences",856,549,506,227,84,146,49,43,0
+Natural resources and conservation,422,279,265,114,51,41,59,14,0
+Biological and biomedical sciences,9724,6165,5877,3428,551,1506,392,286,2
+"Biochemistry, biophysics, and molecular biology",1509,931,897,506,65,293,33,33,1
+"Bioinformatics, biostatistics, and computational biology",735,498,476,155,51,224,46,22,0
+"Biological and biomedical sciences, general",907,498,474,290,43,108,33,24,0
+Cell/ cellular biology and anatomy,761,440,423,261,46,107,9,17,0
+"Ecology, evolutionary biology, and epidemiology",1144,818,758,442,99,90,127,60,0
+Genetics and genomics,477,290,273,173,17,68,15,17,0
+Microbiology and immunology,1092,690,663,433,42,160,28,26,1
+Neurobiology and neurosciences,1200,771,742,494,53,164,31,29,0
+Pharmacology and toxicology,409,258,251,128,9,100,14,7,0
+"Physiology, oncology, and cancer biology",821,529,510,294,68,127,21,19,0
+"Biological and biomedical sciences, other",669,442,410,252,58,65,35,32,0
+Computer and information sciences,2297,1589,1449,276,245,832,96,136,4
+Computer science,1605,1127,1028,194,156,624,54,98,1
+"Computer and information sciences, other",692,462,421,82,89,208,42,38,3
+Engineering,10724,7077,6569,1971,459,3634,505,505,3
+"Aerospace, aeronautical, astronautical, and space engineering",584,409,391,97,45,172,77,18,0
+"Biological, biomedical, and biosystems engineering",1313,795,765,347,40,344,34,30,0
+Chemical and petroleum engineering,1245,829,764,228,19,495,22,65,0
+"Civil, environmental, and transportation engineering",1279,823,747,280,64,328,75,76,0
+Electrical and computer engineering,2119,1479,1353,246,79,934,94,125,1
+Engineering technologies,402,269,240,71,17,143,9,29,0
+Industrial engineering and operations research,627,427,391,71,64,212,44,35,1
+Materials and mining engineering,912,617,573,198,18,323,34,44,0
+Mechanical engineering,1552,1002,939,294,75,501,69,63,0
+"Engineering, other",691,427,406,139,38,182,47,20,1
+"Geosciences, atmospheric, and ocean sciences",1216,872,809,518,78,122,91,61,2
+Geological and earth sciences,682,481,442,253,54,87,48,37,2
+"Ocean, marine, and atmospheric sciences",534,391,367,265,24,35,43,24,0
+Health sciences,2746,1796,1661,519,521,351,270,135,0
+Nursing and nursing science,638,427,388,66,192,44,86,39,0
+Pharmacy and pharmaceutical sciences,442,279,254,109,7,130,8,25,0
+Public health,766,530,492,193,118,71,110,38,0
+"Health sciences, other",900,560,527,151,204,106,66,33,0
+Mathematics and statistics,2056,1459,1283,516,214,477,76,175,1
+Applied mathematics,490,359,330,155,32,122,21,29,0
+Mathematics,890,578,477,254,114,90,19,101,0
+Statistics,676,522,476,107,68,265,36,45,1
+Multidisciplinary/ interdisciplinary sciences,1704,1201,1114,330,198,495,91,86,1
+Interdisciplinary computer sciences,583,438,413,91,67,229,26,24,1
+"Multidisciplinary/ interdisciplinary sciences, other",1121,763,701,239,131,266,65,62,0
+Physical sciences,5443,3649,3345,1529,199,1449,168,304,0
+Astronomy and astrophysics,323,249,212,155,19,27,11,37,0
+Chemistry,2731,1807,1709,680,100,842,87,98,0
+Materials sciences,389,261,247,83,10,138,16,14,0
+Physics,2000,1332,1177,611,70,442,54,155,0
+Psychology,3793,2625,2563,1535,398,308,322,62,0
+Clinical psychology,1203,931,D,793,42,D,66,D,0
+Counseling and applied psychology,1293,918,892,438,165,133,156,26,0
+Research and experimental psychology,803,533,508,208,136,103,61,25,0
+"Psychology, other",494,243,D,96,55,D,39,D,0
+Social sciences,4992,3506,2950,848,1076,477,549,553,3
+Anthropology,379,228,190,85,67,17,21,38,0
+"Area, ethnic, cultural, gender, and group studies",452,275,246,88,121,7,30,29,0
+Economics,1393,1087,822,164,241,241,176,263,2
+Political science and government,665,467,408,148,157,49,54,59,0
+Public policy analysis,407,285,265,56,74,33,102,19,1
+"Sociology, demography, and population studies",627,470,422,133,190,40,59,48,0
+"Social sciences, other",1069,694,597,174,226,90,107,97,0
+Non-science and engineering,11889,7561,6889,1007,3598,657,1627,662,10
+Business,1510,1115,938,86,644,136,72,175,2
+Business administration and management,493,298,253,23,153,47,30,44,1
+"Business, other",1017,817,685,63,491,89,42,131,1
+Education,3988,2663,2547,216,1191,212,928,114,2
+Education leadership and administration,1179,862,837,44,399,42,352,25,0
+Education research,1253,792,754,65,336,113,240,37,1
+Teacher education and teaching fields,1098,733,688,75,332,41,240,45,0
+"Education, other",458,276,268,32,124,16,96,7,1
+Humanities,3358,1967,1761,417,906,113,325,202,4
+"English language and literature, letters",1039,604,566,101,344,50,71,37,1
+"Foreign languages, literatures, and linguistics",571,318,280,59,165,15,41,37,1
+History,733,446,400,129,165,18,88,45,1
+Philosophy and religious studies,619,382,324,109,146,15,54,57,1
+"Humanities, other",396,217,191,19,86,15,71,26,0
+Visual and performing arts,824,434,388,62,229,39,58,46,0
+Performing arts,487,249,228,19,147,28,34,21,0
+"Visual arts, media studies, and design",337,185,160,43,82,11,24,25,0
+Other non-science and engineering,2209,1382,1255,226,628,157,244,125,2
+Communications and journalism,635,401,371,58,239,32,42,30,0
+Multidisciplinary/ interdisciplinary studies,380,228,209,31,106,28,44,19,0
+Public administration and social services,505,349,320,64,124,42,90,28,1
+"Non-science and engineering, other",689,404,355,73,159,55,68,48,1
