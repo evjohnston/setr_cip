@@ -1,0 +1,474 @@
+sas_name,DESCRIPTION
+ACTCAP,"Activity, Computer Applications"
+ACTDED,"Activity, Development and Design"
+ACTMGT,"Activity, Management/Sales"
+ACTRD,"Activity, Research and Development"
+ACTRDT,"Activity, Research, Development, and Teaching"
+ACTRES,"Activity, Research (Basic and/or Applied)"
+ACTTCH,"Activity, Teaching"
+ADQCOMM,Career Preparation: Oral Communication Skills
+ADQCOMP,Career Preparation: Computer Skills
+ADQCONT,Career Preparation: Establishing Contacts
+ADQETHIC,Career Preparation: Research Integrity/Ethics
+ADQGP,Career Preparation: Problem Solving Skills
+ADQKNOW,Career Preparation: Subject Matter Knowledge
+ADQMNG,Career Preparation: Management/Administrative Skills
+ADQNONE,No More Training Desired
+ADQPRI,More Training: First Area
+ADQQUA,Career Preparation: Quantitative Skills
+ADQSEC,More Training: Second Area
+ADQTEACH,Career Preparation: Teaching Skills
+ADQTEAM,Career Preparation: Collaboration/Team Work Skills
+ADQWRITE,Career Preparation: Writing Skills
+AGE,Age
+AGEGR,Age Group (in 5-year intervals)
+AGEP,"Age, recoded for public use."
+ARTICLE,Number of Articles Authored or Co-authored Which Have Been Accepted for Publication
+ASIAN,New Asian racial background indicator
+BAACYR,Academic Year of First Bachelor Degree
+BAAYR3,Year of First Bachelor degree (3-year intervals)
+BAAYR5,Year of First Bachelor Degree (5-year intervals)
+BAAYR5P,"Year of First Bachelor Degree (5-year intervals), recoded for public use."
+BACARN,Carnegie Classification for School Awarding First Bachelor Degree
+BADGRUS,Location of School Awarding First Bachelor Degree (USA/Non-USA code)
+BAINCD,Code for School Awarding First Bachelor Degree
+BAMED,Field of Major for First Bachelor Degree (Best code)
+BAMEDP,Field of Major for First Bachelor Degree Code (Recoded for public use)
+BAMEDX,Field of Major for First Bachelor Degree (Reported code)
+BAMEMG,Field of Major for First Bachelor Degree (Major group)
+BAMENG,Field of Major for First Bachelor Degree (Minor group)
+BAMN,Month of First Bachelor Degree
+BAPBPR,Indicator of Public/Private Status of School Awarding First Bachelor Degree
+BARGN,Location of School Awarding First Bachelor Degree (Region code)
+BARGNP,"Location of School Awarding First Bachelor Degree (Region code, recoded for public use)"
+BAST,Location of School Awarding First Bachelor Degree (Reported state code)
+BAYR,Year of First Bachelor Degree
+BIRDAY,Birth Date: Day
+BIRMN,Birth Date: Month
+BIRYR,Birth Date: Year
+BIRYRP,"Year, Date of Birth Public Use"
+BLACK,Black or African-American racial background indicator	
+BOOKS,Number of Books or Monographs (co)authored Accepted for Publication.
+BSDGN,Number Of Bachelors Or Higher Degrees
+BTHRGN,"Region Code, Place of Birth"
+BTHST,"State/Country Code, Place of Birth"
+BTHUS,Place of Birth (Recoded for public use)
+CARNEG,Carnegie Class for Employer
+CCAFDG,College Courses After Completing Most Recent Degree
+CCEP,School Related Costs Paid by Employer
+CH1217,Number of Children: Aged 12-17
+CH1217IN,Children Indicator: Aged 12-17 (Recoded for public use)
+CH1217P,Number of Children: Aged 12-17 (Recoded for public use)
+CH18,Number of Children: Aged 18 or Older
+CH18IN,Children Indicator: Aged 18 or Older (Recoded for public use)
+CH18PB,Number of Children: Aged 18 or Older (Recoded for public use)
+CH25,Number of Children: Aged 2-5
+CH25IN,Children Indicator: Aged 2-5 (Recoded for public use)
+CH25PB,Number of Children: Aged 2-5 (Recoded for public use)
+CH6,Number of Children: Under Age 6
+CH611,Number of Children: Aged 6-11
+CH611IN,Children Indicator: Aged 6-11 (Recoded for public use)
+CH611PB,Number of Children: Aged 6-11 (Recoded for public use)
+CH6IN,Children Indicator: Under Age 6 (Recoded for public use)
+CH6PB,Number of Children: Aged Under 6 (Recoded for public use)
+CHCHG,Reasons for Changing Employers/Occupations Between April [2 Years Prior to Survey Year] and April [S
+CHCON,Reasons for Changing Employers/Occupations Between April [2 Years Prior to Survey Year] and April [S
+CHFAM,Reasons for Changing Employers/Occupations Between April [2 Years Prior to Survey Year] and April [S
+CHLAY,Reasons for Changing Employers/Occupations Between April [2 Years Prior to Survey Year] and April [S
+CHLOC,Reasons for Changing Employers/Occupations Between April [2 Years Prior to Survey Year] and April [S
+CHLVIN,Lived with Children
+CHOT,Reasons for Changing Employers/Occupations Between April [2 Years Prior to Survey Year] and April [S
+CHPAY,Reasons for Changing Employers/Occupations Between April [2 Years Prior to Survey Year] and April [S
+CHRET,Reasons for Changing Employers/Occupations Between April [2 Years Prior to Survey Year] and April [S
+CHSCH,Reasons for Changing Employers/Occupations Between April [2 Years Prior to Survey Year] and April [S
+CHTOTPB,Total Number of Children (Recoded for public use)
+CHU2,Number of Children: Under Age 2
+CHU2IN,Children Indicator: Under Age 2 (Recoded for public use)
+CHU2PB,Number of Children: Under Age 2 (Recoded for public use)
+CHUN12,Children Under 12 Indicator
+COHORT,Survey Cohort
+CTZN,U.S. Citizenship Status
+CTZUSIN,U.S. citizenship status
+D23YR,Degree Award Date in 3-year Intervals
+D25YR,Degree Award Date in 5-year Intervals
+D2AYR,Degree Award Date based on Academic Year
+D2CARN,Carnegie Class for School
+D2DG,Type of Degree
+D2DGRUS,Location of School Awarding Second-Highest Degree (USA/Non-USA code)
+D2INCD,School Institution Code/Educational Institutions
+D2MED,"Education Code, Major field (Best code)"
+D2MEDP,"Education Code, Major field (Recoded for public use)"
+D2MEDX,"Education Code, Major field (Reported code)"
+D2MEMG,Education Code Major Group
+D2MENG,Education Code Minor Group
+D2MN,Degree Award Date: Month
+D2PBPR,Public/Private Indicator for School
+D2RGN,"School Region, Degree received from school (Region code)"
+D2RGNP,"School Region, Degree received from school (Region code, recoded for public use)"
+D2ST,"School State/Country Code, Degree received from school"
+D2YR,Degree Award Date: Year
+D33YR,Degree Award Date in 3-year Intervals
+D35YR,Degree Award Date in 5-year Intervals
+D3AYR,Degree Award Date based on Academic Year
+D3CARN,Carnegie Class for School
+D3DG,Type of Degree
+D3DGRUS,Location of School Awarding Third-Highest Degree (USA/Non-USA code)
+D3INCD,School Institution Code/Educational Institutions
+D3MED,"Education Code, Major field (Best code)"
+D3MEDP,"Education Code, Major field (Recoded for public use)"
+D3MEDX,"Education Code, Major field (Reported code)"
+D3MEMG,Education Code Major Group
+D3MENG,Education Code Minor Group
+D3MN,Degree Award Date: Month
+D3PBPR,Public/Private Indicator for School
+D3RGN,"School Region, Degree received from school (Region code)"
+D3RGNP,"School Region, Degree received from school (Region code, recoded for public use)"
+D3ST,"School State/Country Code, Degree received from school"
+D3YR,"Year, Degree Award Date: Year"
+D43YR,Degree Award Date in 3-year Intervals
+D45YR,Degree Award Date in 5-year Intervals
+D4AYR,Degree Award Date based on Academic Year
+D4CARN,Carnegie Class for School
+D4DG,Type of Degree
+D4DGRUS,Location of School Awarding Fourth-Highest Degree (USA/Non-USA code)
+D4INCD,School Institution Code/Educational Institutions
+D4MED,"Education Code, Major field (Best code)"
+D4MEDP,"Education Code, Major field (Recoded for public use)"
+D4MEDX,"Education Code, Major field (Reported code)"
+D4MEMG,Education Code Major Group
+D4MENG,Education Code Minor Group
+D4MN,Degree Award Date: Month
+D4PBPR,Public/Private Indicator for School
+D4RGN,"School Region, Degree received from school (Region code)"
+D4RGNP,"School Region, Degree received from school (Region code, recoded for public use)"
+D4ST,"School State/Country Code, Degree received from school"
+D4YR,"Year, Degree Award Date: Year"
+D53YR,Degree Award Date in 3-year Intervals
+D55YR,Degree Award Date in 5-year Intervals
+D5AYR,Degree Award Date based on Academic Year
+D5CARN,Carnegie Class for School
+D5DG,Type of Degree
+D5DGRUS,Location of School Awarding Fifth-Highest Degree (USA/Non-USA code)
+D5INCD,School Institution Code/Educational Institutions
+D5MED,"Education Code, Major field (Best code)"
+D5MEDP,"Education Code, Major field (Recoded for public use)"
+D5MEDX,"Education Code, Major field (Reported code)"
+D5MEMG,Education Code Major Group
+D5MENG,Education Code Minor Group
+D5MN,Degree Award Date: Month
+D5PBPR,Public/Private Indicator for School
+D5RGN,"School Region, Degree received from school (Region code)"
+D5RGNP,"School Region, Degree received from school (Region code, recoded for public use)"
+D5ST,"School State/Country Code, Degree received from school"
+D5YR,"Year, Degree Award Date: Year"
+DGRDG,"Type of Certificate or Degree, Highest Degree"
+DGRMED,Field of Major for Highest Degree (Best code)
+DGRMEDP,Field of Major for Highest Degree (Recoded for public use)
+DGRMEMG,Major Field for Highest Degree (Major Group)
+DGRMENG,Field of Major for Highest Degree (Minor Group)
+DGRYR,Year of Highest Degree
+DIFAGE,Physical Abilities: Earliest Age Experienced Difficulties
+DIFAGEGR,Physical Abilities: Earliest Age Experienced Difficulties
+DIFBIR,Physical Abilities: Experienced Difficulties Since Birth
+DIFHEAR,Physical Abilities: Degree of Difficulty Hearing
+DIFLIFT,Physical Abilities: Degree of Difficulty Lifting
+DIFNO,No Difficulty with Physical Activities
+DIFSEE,Physical Abilities: Degree of Difficulty Seeing
+DIFWALK,Physical Abilities: Degree of Difficulty Walking
+EARN,Total Earned Income Before Deductions in Previous Year
+EARNNO,No Income in the Previous Year
+EARNPB,Total Earned Income Before Deductions in Previous Year (recoded for public use)
+EDDAD,Fathers Education Level
+EDMOM,Mothers Education Level
+EDTP,Type of Educational Institution
+EMBUS,Employer: Main Business
+EMED,Employer is an Educational Institution
+EMRG,Region Code for employer
+EMRGP,Region Code for employer (Recoded for public use)
+EMSECDT,Employer Sector (Detailed code)
+EMSECPB,Employer Sector (Recoded for public use)
+EMSECSM,Employer Sector (Summary code)
+EMSIZE,Size of Employer
+EMSMI,"Employment status, current and previous reference weeks"
+EMST,State/Country Code for Employer
+EMTP,Employer Type
+EMUS,Employer Region Code (Recoded for public use)
+FACADV,Importance of opportunities for advancement when thinking about a job.
+FACBEN,Importance of benefits when thinking about a job.
+FACCHAL,Importance of intellectual challenge when thinking about a job.
+FACIND,Importance of degree of independence when thinking about a job.
+FACLOC,Importance of location when thinking about a job.
+FACRANK,Faculty Rank
+FACRESP,Importance of level of responsibility when thinking about a job.
+FACSAL,Importance of salary when thinking about a job.
+FACSEC,Importance of security when thinking about a job.
+FACSOC,Importance of contribution to society when thinking about a job.
+FACTEN,Faculty rank and Tenure status
+FNCCD,Country of Foreign Citizenship: Country
+FNCRGN,Foreign Country Region
+FNINUS,Living in U.S. During Reference Week
+FPTIND,Full-Time/Part-Time Status During Reference Week
+FSAGR,Federal Agency Supporting Work: Agriculture
+FSDED,Federal Agency Supporting Work: Education
+FSDK,Federal Agency Supporting Work: Agency Unknown
+FSDOD,Federal Agency Supporting Work: Defense
+FSDOE,Federal Agency Supporting Work: Energy
+FSDOT,Federal Agency Supporting Work: Transportation
+FSEPA,Federal Agency Supporting Work: EPA
+FSHHS,Federal Agency Supporting Work: HHS
+FSNASA,Federal Agency Supporting Work: NASA
+FSNIH,Federal Agency Supporting Work: NIH
+FSNSF,Federal Agency Supporting Work: NSF
+FSOT,Federal Agency Supporting Work: Other
+FTPRET,Previously Retired
+FTPRTYP,Year Previously Retired (Recoded for public use)
+FTPRTYR,Year Previously Retired
+GENDER,Gender
+GOVSUP,Federal Government Support Indicator
+HCAPIN,Physical Disabilities Indicator
+HDACY3,Year of Highest Degree (3 year intervals)
+HDACYR,Academic Year of Highest Degree
+HDAY5,Year of Highest Degree (5 year intervals)
+HDAY5P,"Year of Highest Degree (5 year intervals), recoded for public use."
+HDCARN,Carnegie Classification for School Awarding Highest Degree
+HDDGRUS,Location of School Awarding Highest Degree (USA/Non-USA code)
+HDINCD,Code for School Awarding Highest Degree
+HDMEDX,Field of Major for Highest Degree (Reported code)
+HDMN,Month of Highest Degree
+HDPBPR,Indicator of Public/Private Status of School Awarding Highest Degree
+HDRGN,Location of School Awarding Highest Degree (Region code)
+HDRGNP,"Location of School Awarding Highest Degree (Region code, recoded for public use)"
+HDST,Location of School Awarding Highest Degree (Reported state code)
+HISPANIC,New Hispanic Origin Indicator
+HISPCAT,New Hispanic Heritage Categories
+HRSWK,Principal Job Hours Worked
+HRSWKP,"Principal Job Hours Worked, recoded for public use."
+HSPIN,Hispanic Origin Indicator
+HSPTP,Hispanic Heritage Categories
+INSTCOD,Employer Institution Code
+LFSTAT,Labor Force Status
+LOOKWK,"Not Working, Looking for Work"
+LWMN,"Month, Last Worked"
+LWNVR,Never Worked
+LWYR,"Year, Last Worked"
+LWYRP,"Year, Last Worked (Recoded for public use)"
+MARIND,Marital Status
+MARSTA,Marital Status
+MGRNAT,Required Technical Expertise of Executive/Manager: Natural Sciences
+MGROTH,Required Technical Expertise of Executive/Manager: Other
+MGRSOC,Required Technical Expertise of Executive/Manager: Social Sciences
+MINRTY,Minority Indicator
+MR3YR,Year of Most Recent Degree (3-year intervals)
+MR5YR,Year of Most Recent Degree (5-year intervals)
+MR5YRP,"Year of Most Recent Degree (5-year intervals), recoded for public use."
+MRCARN,Carnegie Classification for School Awarding Most Recent Degree
+MRDACYR,Academic Year of Most Recent Degree
+MRDG,"Type of Degree, Most Recent Degree"
+MRDGRUS,Location of School Awarding Most Recent Degree (USA/Non-USA code)
+MRINCD,Code for School Awarding Most Recent Degree
+MRMED,Field of Major Code for Most Recent Degree (Best code)
+MRMEDP,Field of Major Code for Most Recent Degree (Recoded for public use)
+MRMEDX,Field of Major for Most Recent Degree (Reported Code)
+MRMEMG,Field of Major for Most Recent Degree (Major group)
+MRMENG,Field of Major for Most Recent Degree (Minor group)
+MRMN,Month of Most Recent Degree
+MRPBPR,Indicator of Public/Private Status of School Awarding Most Recent Degree
+MRRGN,Location of School Awarding Most Recent Degree (Region code)
+MRRGNP,"Location of School Awarding Most Recent Degree (Region code, recoded for public use)"
+MRST,Location of School Awarding Most Recent Degree (Reported state code)
+MRYR,Year of Most Recent Degree
+NATIVE,American Indian/Alaska Native racial background indicator
+NEDTP,Type of Non-Educational Institution
+NEWBUS,New Business
+NRCHG,Reasons for Work Outside of Field: Career Change
+NRCON,Reasons for Work Outside of Field: Working Conditions
+NRFAM,Reasons for Work Outside of Field: Family
+NRLOC,Reasons for Work Outside of Field: Location
+NROCNA,Reasons for Work Outside of Field: Suitable Job Not Available
+NROT,Reasons for Work Outside of Field: Other
+NRPAY,Reasons for Work Outside of Field: Pay/Promotion
+NRREA,Most Important Reasons for Work Outside of Field
+NRSEC,Second Most Important Reasons for Work Outside of Field
+NWFAM,Reasons for Not Working: Family
+NWILL,Reasons for Not Working: Illness/Disability
+NWLAY,Reasons for Not Working: Layoff
+NWNOND,Reasons for Not Working: Not Need/Want Work
+NWOCNA,Reasons for Not Working: Suitable Job Not Available
+NWOT,Reasons for Not Working: Other
+NWRET,Reasons for Not Working: Retired
+NWRTYR,Reasons for Not Working: Retired Year
+NWSTU,Reasons for Not Working: Student
+OCEDRLP,Principal Job Related to Highest Degree
+OCLST,Job Code for Last Job (Best code)
+OCLSTPB,Job Code for Last Job (Recoded for public use)
+OCLSTX,Job Code for Last Job (Not Currently Working)
+OCMLST,Occupation Major Group Last Job
+OCNLST,Occupation Minor Group Last Job
+OCPR,Job Code for Principal Job (Best code)
+OCPRMG,Occupation Major Group for Principal Job
+OCPRNG,Occupation Minor Group for Principal Job
+OCPRPB,Job Code for Principal Job (Recoded for public use)
+OCPRX,Job Code for Principal Job
+OCS,Job Code for Second Job (Best code)
+OCSEDRL,Relationship of Second Job to Highest Degree
+OCSI,Second Job During Reference Week
+OCSMG,Occupation Major Group for Second Job
+OCSNG,Occupation Minor Group for Second Job
+OCSPB,Job Code for Second Job (Recoded for public use)
+OCSX,Job Code for Second Job
+PACIFIC,Native Hawaiian or other Pacific Islander racial background indicator
+PAPERS,Number of Papers Authored or Co-authored Which Have Been Presented at Conferences
+PATENT,Named as Inventor on a Patent
+PATHDC,Job Seeking Resources Used: Initiated Direct Contacts
+PATHEP,Job Seeking Resources Used: Electronic Postings
+PATHFA,Job Seeking Resources Used: Faculty/Advisors
+PATHIC,Job Seeking Resources Used: Colleagues/Friends
+PATHMOS,Time Elapsed Between Receiving Doctorate And Accepting Career Path Job
+PATHNA,Not Held Career Path Job Since Receiving Doctorate
+PATHNP,Job Seeking Resources Used: Newspapers
+PATHOT,Job Seeking Resources Used: Other
+PATHPJ,Job Seeking Resources Used: Professional Journals
+PATHPM,Job Seeking Resources Used: Professional Meetings
+PATHPO,Job Seeking Resources Used: College Placement Office
+PATHPR,Job Seeking Resources Used: Professional Recruiters
+PATHPRI,Most Important Resource
+PATHSEC,Second Most Important Resource
+PDEMPL,Reasons for Taking Postdoc: Other Employment Not Available
+PDEXPECT,Reasons for Taking Postdoc: Generally Expected in Field
+PDIX,Postdoctoral Appointment Indicator
+PDOTHER,Reasons for Taking Postdoc: Other
+PDPERPL,Reasons for Taking Postdoc: Work With Specific Person or Place
+PDPRI,Main Reason for Taking Postdoc
+PDSEC,Second Most Important Reason for Taking Postdoc
+PDTRAIN,Reasons for Taking Postdoc: Additional Training In PhD Field
+PDTROUT,Reasons for Taking Postdoc: Training In Area Outside PhD Field
+PFMAEDGR,Education Group For Field of Study After College: Major group
+PFMIEDGR,Education Group For Field of Study After College: Minor group
+PHDDEBT,Search For Job Limited By: Debt
+PHDFAM,Search For Job Limited By: Family Responsibilities
+PHDMOVE,Search For Job Limited By: Desire to Not Relocate
+PHDNA,Search For Job Limited By: Suitable Job Not Available
+PHDPAJB,Sought or Held Career Path Job
+PHDPATH,Held or Accepted Career Path Job
+PHDPTHO,Search For Job Limited By: Other
+PHDRCNT,First Doctoral Degree Received Between June 1990 and June 1996
+PHDSATIS,Satisfaction With Doctoral Program
+PHDSP,Search For Job Limited By: Spouse’s Career
+PRMBR,Number of Professional Society Memberships
+PRMBRNO,No Professional Society Memberships
+PRMBRPB,Number of Professional Society Memberships (Coded for Public Use)
+PROMTGI,Attended Professional Meetings In Past Year
+PTFAM,Reasons for Working Part-Time: Family
+PTILL,Reasons for Working Part-Time: Illness/Disability
+PTNOND,Reasons for Working Part-Time: Not Need/Want Work
+PTOCNA,Reasons for Working Part-Time: Suitable Full-Time Job Not Available
+PTOT,Reasons for Working Part-Time: Other
+PTRET,Reasons for Working Part-Time: Retired
+PTRETYP,Year Retired (Reasons for Working Part-Time: Retired) (Recoded for public use)
+PTRETYR,Year Retired (Reasons for Working Part-Time: Retired)
+PTSTU,Reasons for Working Part-Time: Student
+PTWTFT,Working Part-Time but Wanted to Work Full-Time
+PUBPRI,Public/Private Indicator for Employer
+RACE,Race
+RACETH,Race/Ethnicity
+RACETHP,Race/Ethnicity (Recoded for public use)
+REFID,Reference/ID Number
+REFYR,Survey Year
+RESPLCUS,"Derived from location of residence or employer’s location, depending on availability (USA/Non-USA code"
+RESPLO3,"Derived from location of residence or employer’s location, depending on availability"
+RESPLOC,"Derived from location of residence or employer’s location, depending on availability"
+SALARP,Salary (Annualized for public use)
+SALARY,Salary (Annualized)
+SATADV,Satisfaction with opportunities for advancement on principal job.
+SATBEN,Satisfaction with benefits on principal job.
+SATCHAL,Satisfaction with intellectual challenge on principal job.
+SATIND,Satisfaction with degree of independence on principal job.
+SATLOC,Satisfaction with location on principal job.
+SATRESP,Satisfaction with level of responsibility on principal job.
+SATSAL,Satisfaction with salary on principal job.
+SATSEC,Satisfaction with job security of principal job.
+SATSOC,Satisfaction with contribution to society of principal job.
+SDR3YR,Year of First S&E PhD (3 year intervals)
+SDR5YR,Year of First S&E PhD (5 year intervals)
+SDRAYR,Academic Year of First S&E PhD
+SDRCARN,Carnegie Classification for School Awarding First S&E PhD
+SDRINCD,Code for School Awarding First S&E PhD
+SDRMED,Field of Major for First S&E PhD
+SDRMEMG,Field of Major for First S&E PhD (Major group)
+SDRMENG,Field of Major for First S&E PhD (Minor group)
+SDRMN,Month of First S&E PhD
+SDRPBPR,Indicator of Public/Private Status of School Awarding First S&E PhD
+SDRRGN,Location of School Awarding First S&E PhD (Region code)
+SDRST,Location of School Awarding First S&E PhD
+SDRYR,Year of First S&E PhD
+SPDIRP,Number of People Supervised Directly (Recoded for public use)
+SPINDP,Number of People Supervised Through Subordinates (Recoded for public use)
+SPNAT,Technical Expertise Required by Spouses Employment: Natural Sciences
+SPOT,Technical Expertise Required by Spouses Employment: Other
+SPOWK,Spouse Working
+SPSOC,Technical Expertise Required by Spouses Employment: Social Sciences
+SRVMODE,Survey Mode
+STRTMN,Month Job Started
+STRTYR,Year Job Started
+SUPDIR,Number of People Supervised Directly
+SUPIND,Number of People Supervised Through Subordinates
+SUPWK,Supervisory Work
+SURID,Survey Identifier
+TCADV,Reasons For Taking Courses: Increase Advancement Opportunities
+TCCAR,Reasons For Taking Courses: Further Education Before Career
+TCCHG,Reasons For Taking Courses: Facilitate Academic/Occupational Field Change
+TCDGCMP,Completed Degree Between April [2 Years Prior to Survey Year] and April [Survey Year]
+TCDGNONE,No specific Type of Degree Working on Since College
+TCDRG,Type of Degree Working on Since College
+TCED,Education Code For Field of Study After College (Edited)
+TCEDP,Education Code For Field of Study After College (Recoded for public use)
+TCEDX,Education Code For Field of Study After College (Reported Code)
+TCEM,Reasons For Taking Courses: Expected/Required by Employer
+TCGRD,Reasons For Taking Courses: Prepare for Graduate School
+TCINT,Reasons For Taking Courses: Personal Interest
+TCLIC,Reasons For Taking Courses: Licensure/Certification
+TCOT,Reasons For Taking Courses: Other
+TCSKL,Reasons For Taking Courses: Acquire Further Skills in Field
+TENI,"Tenure Status, Indicator"
+TENSTA,Tenure Status
+USPAPP,Number of Patent Applications Named as Inventor
+USPCOM,Number of Patent Applications Which have been Granted and Resulted in Commercial Products
+USPGRT,Number of Patent Applications Which have been Granted
+VALIND,Valid Response Indicator
+WAACC,"Work Activities on Principal Job: Accounting, finance, contracts"
+WAAPRSH,Work Activities on Principal Job: Applied research
+WABRSH,Work Activities on Principal Job: Basic research
+WACOM,Work Activities on Principal Job: Computer applications
+WADEV,Work Activities on Principal Job: Development
+WADSN,Work Activities on Principal Job: Design
+WAEMRL,Work Activities on Principal Job: Employee relations
+WAMGMT,Work Activities on Principal Job: Management and administration
+WAOT,Work Activities on Principal Job: Other
+WAPRI,"Most Hours, Work Activity"
+WAPROD,"Work Activities on Principal Job: Production, operations, maintenance"
+WAPRSM,Summarized Primary Work Activity
+WAQM,Work Activities on Principal Job: Quality or productivity management
+WASALE,"Work Activities on Principal Job: Sales, purchasing, marketing"
+WASCSM,Summarized Secondary Work Activity
+WASEC,"Second Most Hours, Work Activity"
+WASVC,Work Activities on Principal Job: Professional services
+WATEA,Work Activities on Principal Job: Teaching
+WHITE,White racial background indicator
+WKSWK,Principal Job Weeks Salary Based On
+WKSWKP,Principal Job Weeks Salary Based On (Recoded for public use)
+WKTRNI,Attended Work-Related Training
+WRKG,Working for Pay During Reference Week
+WRKGP,"Employment Status, current and previous reference weeks"
+WTAPRF,Area of Work-Related Training: General professional training
+WTMGT,Area of Work-Related Training: Management training
+WTOT,Area of Work-Related Training: Other
+WTRADV,Reason for Attending Work-Related Training: Increase Advancement Opportunities
+WTRCHG,Reason for Attending Work-Related Training: Facilitate occupation change
+WTREM,Reason for Attending Work-Related Training: Required/expected by employer
+WTRLIC,Reason for Attending Work-Related Training: Licensure/certification
+WTRNEW,Reason for Attending Work-Related Training: Learn skills for recently acquired position
+WTROT,Reason for Attending Work-Related Training: Other
+WTRSKL,Reason for Attending Work-Related Training: Acquire further skills/knowledge
+WTRSN,Most Important Reason For Attending Training
+WTSURVY,Final Survey Weight
+WTTECH,Area of Work-Related Training: Technical training

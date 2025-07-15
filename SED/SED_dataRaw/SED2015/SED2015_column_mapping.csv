@@ -1,0 +1,248 @@
+var,label,SAS_FMT
+ACADADJF,Academic position: adjunct faculty,$MARK_ALL_CODES
+ACADADMN,Academic position: dean or president,$MARK_ACADMN
+ACADNA,Academic position: not applicable,$MARK_ALL_CODES
+ACADOTHP,"Academic position: research assistant, teaching assistant or other",$MARK_ACADOTH
+ACADPDOC,Academic position: postdoc,$MARK_ALL_CODES
+ACADRCHF,Academic position: research faculty,$MARK_ALL_CODES
+ACADTCHF,Academic position: teaching faculty,$MARK_ALL_CODES
+ACADV,Reason for taking courses during reference week: increase advancement opportunities,$YES_NO_CODES
+ACCAR,Reason for taking courses during reference week: further education before career,$YES_NO_CODES
+ACCCEP,School related costs for course taking paid by employer,$YES_NO_CODES
+ACCHG,Reason for taking courses during reference week:  change academic/occupational field,$YES_NO_CODES
+ACDRG,Type of degree working on during reference week,$DEGREE_CODES
+ACFPT,Taking courses/enrolled during reference week: enrollment status,$FULL_PART_TIME_STUDENT_NEW
+ACINT,Reason for taking courses during reference week: leisure/personal interest,$YES_NO_CODES
+ACLIC,Reason for taking courses during reference week: licensure/certification,$YES_NO_CODES
+ACOTP,"Reason for taking courses during reference week: graduate school, required by employer or other",$MARK_ACOTP
+ACSIN,Taking courses and/or enrolled during reference week indicator,$YES_NO_CODES
+ACSKL,Reason for taking courses during reference week: gain further skills in field,$YES_NO_CODES
+ACTCAP,Primary/secondary work activity on principal job: computer applications,$YES_NO_CODES
+ACTDED,Primary/secondary work activity on principal job: development or design,$YES_NO_CODES
+ACTMGT,Primary/secondary work activity on principal job: management/sales,$YES_NO_CODES
+ACTRD,Primary/secondary work activity on principal job: basic research/applied research/development/design,$YES_NO_CODES
+ACTRDT,Primary/secondary work activity on principal job: basic research/applied research/development/design/teaching,$YES_NO_CODES
+ACTRES,Primary/secondary work activity on principal job: basic or applied research,$YES_NO_CODES
+ACTTCH,Primary/secondary work activity on principal job: teaching,$YES_NO_CODES
+AGEGRP,Age Group (5 year intervals) (recoded for public use),AGE_GROUP_CODES_PUB
+BAAYR5P,Year of award of first bachelor's degree (5-year intervals) (recoded for public use),BAAYR5P_CODES
+BADGRUS,Location of school awarding first bachelor's degree (U.S./Non-U.S.),$US_NONUS_CODES
+BAPBPR,Public/private status of postsecondary institution awarding first bachelor's degree - 1994 Carnegie value,$PUBLIC_PRIVATE_CODES
+BARGNP,Location of school awarding first bachelor's degree (region code) (recoded for public use),$REGION_CODES_PUB
+BTHUS,Place of birth (U.S./Non-U.S.),$US_NONUS_CODES
+CH1218IN,Children living in household indicator: ages 12-18,$YES_NO_CODES
+CH19IN,Children living in household indicator: age 19 or older,$YES_NO_CODES
+CH25IN,Children living in household indicator: ages 2-5,$YES_NO_CODES
+CH611IN,Children living in household indicator: ages 6-11,$YES_NO_CODES
+CH6IN,Children living in household indicator: under age 6,$YES_NO_CODES
+CHCHG,Reason for changing employer or job: change in career/professional interests,$YES_NO_CODES
+CHCON,Reason for changing employer or job: working conditions,$YES_NO_CODES
+CHFAM,Reason for changing employer or job: family-related reasons,$YES_NO_CODES
+CHLAY,Reason for changing employer or job: laid off/job terminated,$YES_NO_CODES
+CHLOC,Reason for changing employer or job: job location,$YES_NO_CODES
+CHLVIN,Children living in household indicator (all ages),$YES_NO_CODES
+CHOT,Reason for changing employer or job: other,$YES_NO_CODES
+CHPAY,"Reason for changing employer or job: pay, promotion",$YES_NO_CODES
+CHRET,Reason for changing employer or job: retired,$YES_NO_CODES
+CHSCH,Reason for changing employer or job: school-related reasons,$YES_NO_CODES
+CHTOTPB,Total number of children (recoded for public use),$CHILD_TOT_PUB_CODES03_
+CHU2IN,Children living in household indicator: under age 2,$YES_NO_CODES
+CHUN12,Children living in household indicator: under age 12,$YES_NO_CODES
+COHORT,Survey cohort,$SURVEY_COHORTS
+CTZFOR,Visa type for non-US citizens,$NON_US_CITIZEN_CODES
+CTZN,Citizenship or visa status,$CITIZENSHIP_CODES
+CTZN_DRF,"Citizenship/visa status at time of doctorate (recoded, from DRF)",$CITIZENSHIP_CODES
+CTZUS,Type of US citizen,$US_CITIZEN_CODES
+CTZUSIN,U.S. citizenship status,$YES_NO_CODES
+D25YRP,Year of award of second highest degree (5 year intervals) (recoded for public use),D25YRP_CODES
+D2DG,Second highest degree type,$DEGREE_CODES
+D2DGRUS,Location of school awarding second highest degree (U.S./Non-U.S.),$US_NONUS_CODES
+D2PBPR,Public/private status of postsecondary institution awarding second highest degree - 1994 Carnegie value,$PUBLIC_PRIVATE_CODES
+D2RGNP,Location of school awarding second highest degree (region code) (recoded for public use),$REGION_CODES_PUB
+D35YRP,Year of award of third highest degree (5 year intervals) (recoded for public use),D35YRP_CODES
+D3DG,Third highest degree type,$DEGREE_CODES
+D3DGRUS,Location of school awarding third highest degree (U.S./Non-U.S.),$US_NONUS_CODES
+D3PBPR,Public/private status of postsecondary institution awarding third highest degree - 1994 Carnegie value,$PUBLIC_PRIVATE_CODES
+D3RGNP,Location of school awarding third highest degree (region code) (recoded for public use),$REGION_CODES_PUB
+DIFAGEGR,Physical abilities: earliest age experienced difficulties (5 year intervals),AGE_GROUP_CODES
+DIFBIR,Physical abilities: experienced difficulties since birth,$SINCE_BIRTH_CODES
+DIFNO,No difficulty with physical activities,$NO_HANDICAP_CODES
+EARNP,Total earned income before deductions in previous year (recoded for public use),
+EDDAD,Father's education level,$EDUCATION_LEVEL_CODES
+EDMOM,Mother's education level,$EDUCATION_LEVEL_CODES
+EDTP,Type of educational institution employer,$EDUCATION_INSTITUTION_CODES_R2_
+EMED,Indicator for educational institution employer,$YES_NO_CODES
+EMRGP,Region code for employer (recoded for public use),$REGION_CODES_PUB
+EMSECDT,Employer sector (detailed codes),$EMP_SECTOR_DET_CODES
+EMSECSM,Employer sector (summary codes),$EMP_SECTOR_SUM_CODES
+EMSIZE,Employer size,$EMPLOYER_SIZE_R1_
+EMSMI,"Employment status (same job/employer?), current and previous reference weeks",$SAME_DIFFERENT_CODES
+EMTPP,Employer type (taking into account educational institutions) (recoded for public use),$EMP_TYPE_CODE
+EMUS,Employer location (U.S./Non-U.S.),$US_NONUS_CODES
+FACADV,Importance of job's opportunities for advancement,$IMPORTANT_CODES
+FACBEN,Importance of job's benefits,$IMPORTANT_CODES
+FACCHAL,Importance of job's intellectual challenge,$IMPORTANT_CODES
+FACIND,Importance of job's degree of independence,$IMPORTANT_CODES
+FACLOC,Importance of job's location,$IMPORTANT_CODES
+FACRANK,Faculty rank,$FACULTY_RANK_CODES_R1_
+FACRESP,Importance of job's level of responsibility,$IMPORTANT_CODES
+FACSAL,Importance of job's salary,$IMPORTANT_CODES
+FACSEC,Importance of job's security,$IMPORTANT_CODES
+FACSOC,Importance of job's contribution to society,$IMPORTANT_CODES
+FNINUS,Living in U.S. during reference week,$YES_NO_CODES
+FSDED,Federal agency supporting work: Education,$MARK_ALL_CODES
+FSDK,Federal agency supporting work: Agency Unknown,$MARK_ALL_CODES
+FSDOD,Federal agency supporting work: Defense,$MARK_ALL_CODES
+FSDOE,Federal agency supporting work: Energy,$MARK_ALL_CODES
+FSHHS,Federal agency supporting work: HHS,$MARK_ALL_CODES
+FSNASA,Federal agency supporting work: NASA,$MARK_ALL_CODES
+FSNIH,Federal agency supporting work: NIH,$MARK_ALL_CODES
+FSNSF,Federal agency supporting work: NSF,$MARK_ALL_CODES
+FSOT,Federal agency supporting work: Other,$MARK_ALL_CODES
+FTPRET,Previously retired,$YES_NO_CODES
+GENDER,Gender,$GENDER_CODES
+GOVSUP,Federal government support indicator,$YES_NO_CODES
+HCAPIN,Physical disabilities indicator,$YES_NO_CODES
+HDAY5P,Year of award of highest degree (5 year intervals) (recoded for public use),HDAY5P_CODES
+HDDGRUS,Location of school awarding highest degree (U.S./Non-U.S.),$US_NONUS_CODES
+HDPBPR,Public/private status of postsecondary institution awarding highest degree - 1994 Carnegie value,$PUBLIC_PRIVATE_CODES
+HDRGNP,Location of school awarding highest degree (region code) (recoded for public use),$REGION_CODES_PUB
+HRSWKP,Principal job: hours per week typically worked (recoded for public use),HRSWKP
+JOBINS,Available benefits: health insurance,$YES_NO_CODES
+JOBPENS,Available benefits: pension/retirement plan,$YES_NO_CODES
+JOBPROFT,Available benefits: profit-sharing plan,$YES_NO_CODES
+JOBSATIS,Job satisfaction,$SATISFIED_CODES
+JOBVAC,Available benefits: paid vacation/sick/personal days,$YES_NO_CODES
+LFSTAT,Labor force status,$LABOR_FORCE_STATUS_CODES
+LOOKWK,"Not working, looking for work",$YES_NO_CODES
+MARIND,Marital status indicator,$YES_NO_CODES
+MARSTA,Marital status,$MARITAL_STATUS_CODES_R1_
+MGRNAT,"Job required technical expertise at the bachelor's level or higher:  eng, comp sci, math, nat sciences",$YES_NO_CODES
+MGROTH,Job required technical expertise at the bachelor's level or higher:  Other fields (e.g. health/business),$YES_NO_CODES
+MGRSOC,Job required technical expertise at the bachelor's level or higher:  social sciences,$YES_NO_CODES
+MINRTY,Minority indicator,$YES_NO_CODES
+MR5YRP,Year of award of most recent degree (5-year intervals) (recoded for public use),MR5YRP_CODES
+MRADV,"Reason for obtaining most recent degree: increase opportunities for promotion, advancement, higher salary",$YES_NO_CODES
+MRCAR,Reason for obtaining most recent degree: further education before career,$YES_NO_CODES
+MRCHG,Reason for obtaining most recent degree: change academic/occupational field,$YES_NO_CODES
+MRDG,Most recent degree type,$DEGREE_CODES
+MRDGRUS,Location of school awarding most recent degree (U.S./Non-U.S.),$US_NONUS_CODES
+MRINT,Reason for obtaining most recent degree: leisure/personal interest,$YES_NO_CODES
+MRLIC,Reason for obtaining most recent degree: licensure/certification,$YES_NO_CODES
+MROTP,"Reason for obtaining most recent degree: graduate school, required by employer or other",$MARK_MROTP
+MRPBPR,Public/private status of postsecondary institution awarding most recent degree - 1994 Carnegie value,$PUBLIC_PRIVATE_CODES
+MRRGNP,Location of school awarding most recent degree (region code) (recoded for public use),$REGION_CODES_PUB
+MRSKL,Reason for obtaining most recent degree: acquire further skills in field,$YES_NO_CODES
+N2OCMLST,Job code for last job (major group),$MAJOR_OCC_GROUP_CODES_NEW
+N2OCPRMG,Job code for principal job (major group),$MAJOR_OCC_GROUP_CODES_NEW
+N2OCPRNG,Job code for principal job (minor group),$MINOR_GROUP_CODES_NEW
+NACEDMG,Code for field of study during reference week (major group),$MAJOR_GROUP_CODES_NEW
+NBAMEMG,Field of study for first bachelor's degree (major group),$MAJOR_GROUP_CODES_NEW
+NBAMENGP,Field of study for first bachelor's degree (minor group)  (recoded for public use),$MINOR_ED_GROUP_CODES_NEW
+ND2MEMG,Field of study for second highest degree (major group),$MAJOR_GROUP_CODES_NEW
+ND3MEMG,Field of study for third highest degree (major group),$MAJOR_GROUP_CODES_NEW
+NDGMEMG,Field of study for highest degree (major group),$MAJOR_GROUP_CODES_NEW
+NDGMENGP,Field of study for highest degree (minor group)   (recoded for public use),$MINOR_ED_GROUP_CODES_NEW
+NEDTPP,Employer type (not taking into account if it was an educational institution) (recoded for public use),$EMPLOYER_TYPE_CODES_R1_
+NEWBUS,New business,$YES_NO_CODES
+NMRMEMG,Field of study of major for most recent degree (major group),$MAJOR_GROUP_CODES_NEW
+NMRMENGP,Field of study of major for most recent degree (minor group)   (recoded for public use),$MINOR_ED_GROUP_CODES_NEW
+NRCHG,Reason for working outside field of highest degree: career change,$YES_NO_CODES
+NRCON,Reason for working outside field of highest degree: working conditions,$YES_NO_CODES
+NRFAM,Reason for working outside field of highest degree: family-related reasons,$YES_NO_CODES
+NRLOC,Reason for working outside field of highest degree: job location,$YES_NO_CODES
+NROCNA,Reason for working outside field of highest degree: suitable job not available,$YES_NO_CODES
+NROT,Reason for working outside field of highest degree: other,$YES_NO_CODES
+NRPAY,Reason for working outside field of highest degree: pay/promotion,$YES_NO_CODES
+NRREA,Most important reason for working outside field of highest degree,$OUTSIDE_FIELD_REASONS
+NRSEC,Second most important reason for working outside field of highest degree,$OUTSIDE_FIELD_REASONS
+NSDRMEM,Field of study for first US S&E or health PhD (major group),$MAJOR_GROUP_USDOC_CODES_NEW
+NSDRMEN,Field of study for first US S&E or health PhD (minor group),$MINOR_GROUP_USDOC_CODES_NEW
+NWFAM,Reasons for not working: family responsibilities,$YES_NO_CODES
+NWLAY,Reasons for not working: layoff,$YES_NO_CODES
+NWNOND,Reasons for not working: did not need/want to work,$YES_NO_CODES
+NWOCNA,Reasons for not working: suitable job not available,$YES_NO_CODES
+NWOTP,"Reasons for not working: illness, retired or other",$MARK_NWOTP
+NWSTU,Reasons for not working: student,$YES_NO_CODES
+OCEDRLP,Extent that principal job is related to highest degree,$RELATED_CODES
+PDEMPL,Reason for taking postdoc: other employment not available,$YES_NO_CODES
+PDEXPECT,Reason for taking postdoc: generally expected in field,$YES_NO_CODES
+PDIX,Principal job postdoc indicator,$YES_NO_CODES
+PDOTHER,Reason for taking postdoc: other,$YES_NO_CODES
+PDPERPL,Reason for taking postdoc: work with specific person or place,$YES_NO_CODES
+PDPRI,Most important reason for taking postdoc,$POSTDOC_REASON_CODES
+PDSEC,Second most important reason for taking postdoc,$POSTDOC_REASON_CODES
+PDTRAIN,Reason for taking postdoc: additional training in PhD field,$YES_NO_CODES
+PDTROUT,Reason for taking postdoc: training in area outside PhD field,$YES_NO_CODES
+PDUSFOR,Post-graduation location at time of doctorate (from DRF),$PDUS
+PJFAM,Reason worked part-time:  family responsibilities,$YES_NO_CODES
+PJHAJ,Reason worked part-time:  held another job,$YES_NO_CODES
+PJNOND,Reason worked part-time:  did not need/want to work full-time,$YES_NO_CODES
+PJOCNA,Reason worked part-time:  full-time job not available,$YES_NO_CODES
+PJOT,Reason worked part-time:  other,$YES_NO_CODES
+PJRET,Reason worked part-time:  previously or semi-retired,$YES_NO_CODES
+PJSTU,Reason worked part-time:  student,$YES_NO_CODES
+PJWTFT,Want to work full-time on principal job indicator,$YES_NO_CODES
+PRMBRPB,Number of Professional Society Memberships (Coded for Public Use),MEMBERSHIP_CODES_PUB03_
+PROMTGI,Attended professional meetings in past year,$YES_NO_CODES
+PUBPRI,Public/private indicator for employer if a postsecondary educational institution - 1994 Carnegie value,$PUBLIC_PRIVATE_CODES
+RACETHMP,Race/ethnicity (recoded for public use),$ETHNICITY_CODES_PUB_NEW
+REFID,Reference/ID number,
+REFYR,Survey year,
+SALARYP,Salary (annualized and recoded for public use),
+SATADV,Satisfaction principal job's opportunities for advancement,$SATISFIED_CODES
+SATBEN,Satisfaction principal job benefits,$SATISFIED_CODES
+SATCHAL,Satisfaction principal job's intellectual challenge,$SATISFIED_CODES
+SATIND,Satisfaction principal job's degree of independence,$SATISFIED_CODES
+SATLOC,Satisfaction principal job's job location,$SATISFIED_CODES
+SATRESP,Satisfaction principal job's level of responsibility,$SATISFIED_CODES
+SATSAL,Satisfaction principal job salary,$SATISFIED_CODES
+SATSEC,Satisfaction principal job's job security,$SATISFIED_CODES
+SATSOC,Satisfaction principal job's contribution to society,$SATISFIED_CODES
+SDR5YRP,Year of award of first US S&E or health PhD (5 year intervals) (recoded for public use),SDR5YRP_CODES
+SDRPBPR,Public/private status of school awarding first US S&E or health PhD - 1994 Carnegie value,$PUBLIC_PRIVATE_CODES
+SDRRGNP,Location of school awarding first US S&E or health PhD degree (region code) (recoded for public use),$REGION_CODES_PUB
+SEH,"Major field, 1st US SEH PhD, collapsed to Science/Engineering/Health",$SEH
+SPNAT,"Technical expertise required by spouse/partner job: engineering, computer, math, natural sciences",$YES_NO_CODES
+SPOT,Technical expertise required by spouse/partner job: other,$YES_NO_CODES
+SPOWK,Spouse or partner working?,$SPOUSE_WORKING_CODES
+SPSOC,Technical expertise required by spouse/partner Job: social sciences,$YES_NO_CODES
+SRVMODE,Survey mode,$SURVEY_MODES
+SUPWK,Supervised others in principal job indicator,$YES_NO_CODES
+SURID,Survey identifier,SURVEY_IDENTIFIER_CODES
+TCDGCMP,Completed degree between previous survey reference month/year and current survey reference month/year,$YES_NO_CODES
+TENI,Tenure status indicator,$TENURE_STATUS_IND_CODES
+TENSTA,Tenure status,$TENURE_STATUS_CODES
+WAACC,"Work activity on principal job (10% indicator): accounting, finance, contracts",$YES_NO_CODES
+WAAPRSH,Work activity on principal job (10% indicator): applied research,$YES_NO_CODES
+WABRSH,Work activity on principal job (10% indicator): basic research,$YES_NO_CODES
+WACOM,Work activity on principal job (10% indicator): computer applications,$YES_NO_CODES
+WADEV,Work activity on principal job (10% indicator): development,$YES_NO_CODES
+WADSN,Work activity on principal job (10% indicator): design,$YES_NO_CODES
+WAEMRL,Work activity on principal job (10% indicator): human resources,$YES_NO_CODES
+WAMGMT,Work activity on principal job (10% indicator): managing or supervising people/project,$YES_NO_CODES
+WAOT,Work activity on principal job (10% indicator): other,$YES_NO_CODES
+WAPRI,Work activity spent most hours on in principal job,$WORK_ACTIVITY_CODES_R1_
+WAPROD,"Work activity on principal job (10% indicator): production, operations, maintenance",$YES_NO_CODES
+WAPRSM,Summarized primary work activity,$WORK_SUMMARY_CODES
+WAQM,Work activity on principal job (10% indicator): quality or productivity management,$YES_NO_CODES
+WASALE,"Work activity on principal job (10% indicator): sales, purchasing, marketing",$YES_NO_CODES
+WASCSM,Summarized secondary work activity,$WORK_SUMMARY_CODES
+WASEC,Work activity spent second most hours on in principal job,$WORK_ACTIVITY_CODES_R1_
+WASVC,Work activity on principal job (10% indicator): professional services,$YES_NO_CODES
+WATEA,Work activity on principal job (10% indicator): teaching,$YES_NO_CODES
+WKSLYR,Number of weeks worked per year if less than 52 weeks,
+WKSWK,Principal job salary:  weeks per year basis,
+WKSYR,Indicator for working 52 weeks per year,$WEEKS_CODES_NEW
+WKTRNI,Attended work-related training,$YES_NO_CODES
+WRKG,Working for pay or profit during reference week,$YES_NO_CODES
+WRKGP,"Employment status indicator, comparing current and previous reference weeks",$YES_NO_CODES
+WTRCHOC,Reason for attending work-related training: facilitate occupation change to different field,$YES_NO_CODES
+WTREASN,Most important reason for taking work-related training,$TRAINING_REASON_CODES_NEW
+WTREM,Reason for attending work-related training: required/expected by employer,$YES_NO_CODES
+WTRLIC,Reason for attending work-related training: licensure/certification,$YES_NO_CODES
+WTROPPS,Reason for attending work-related training: increase advancement opportunities in current occupation,$YES_NO_CODES
+WTROT,Reason for attending work-related training: other,$YES_NO_CODES
+WTRPERS,Reason for attending work-related training:  leisure/personal interest,$YES_NO_CODES
+WTRSKL,Reason for attending work-related training: acquire further skills/knowledge,$YES_NO_CODES
+WTSURVY,Final survey-specific weight,
